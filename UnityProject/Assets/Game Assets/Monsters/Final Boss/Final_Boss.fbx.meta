@@ -1,0 +1,242 @@
+fileFormatVersion: 2
+guid: 3f22c4a03b8afbe44b26b497650b9d61
+timeCreated: 1525960997
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Final_Boss_LOW1:Group11033
+    100004: Final_Boss_LOW1:Group11833
+    100006: Final_Boss_LOW1:Group14330
+    100008: Final_Boss_LOW1:Group15453
+    100010: Final_Boss_LOW1:Group18231
+    100012: Final_Boss_LOW1:Group19369
+    100014: Final_Boss_LOW1:Group21403
+    100016: Final_Boss_LOW1:Group21586
+    100018: Final_Boss_LOW1:Group21749
+    100020: Final_Boss_LOW1:Group23199
+    100022: Final_Boss_LOW1:Group23374
+    100024: Final_Boss_LOW1:Group24998
+    100026: Final_Boss_LOW1:Group3271
+    100028: Final_Boss_LOW1:Group35216
+    100030: Final_Boss_LOW1:Group35420
+    100032: Final_Boss_LOW1:Group35582
+    100034: Final_Boss_LOW1:Group35731
+    100036: Final_Boss_LOW1:Group37150
+    100038: Final_Boss_LOW1:Group37433
+    100040: Final_Boss_LOW1:Group37705
+    100042: Final_Boss_LOW1:Group37939
+    100044: Final_Boss_LOW1:Group42223
+    100046: Final_Boss_LOW1:Group42379
+    100048: Final_Boss_LOW1:Group42570
+    100050: Final_Boss_LOW1:Group44715
+    100052: Final_Boss_LOW1:Group48241
+    100054: Final_Boss_LOW1:Group48242
+    100056: Final_Boss_LOW1:Group48243
+    100058: Final_Boss_LOW1:Group48244
+    100060: Final_Boss_LOW1:Group48245
+    100062: Final_Boss_LOW1:Group48246
+    100064: Final_Boss_LOW1:Group48247
+    100066: Final_Boss_LOW1:Group48248
+    100068: Final_Boss_LOW1:Group48249
+    100070: Final_Boss_LOW1:Group48250
+    100072: Final_Boss_LOW1:Group48251
+    100074: Final_Boss_LOW1:Group48252
+    100076: Final_Boss_LOW1:Group5746
+    100078: Final_Boss_LOW1:Group7965
+    100080: Final_Boss_LOW1:transform1
+    100082: Final_Boss_LOW1:transform10
+    100084: Final_Boss_LOW1:transform11
+    100086: Final_Boss_LOW1:transform12
+    100088: Final_Boss_LOW1:transform13
+    100090: Final_Boss_LOW1:transform14
+    100092: Final_Boss_LOW1:transform15
+    100094: Final_Boss_LOW1:transform16
+    100096: Final_Boss_LOW1:transform17
+    100098: Final_Boss_LOW1:transform18
+    100100: Final_Boss_LOW1:transform19
+    100102: Final_Boss_LOW1:transform2
+    100104: Final_Boss_LOW1:transform20
+    100106: Final_Boss_LOW1:transform21
+    100108: Final_Boss_LOW1:transform22
+    100110: Final_Boss_LOW1:transform23
+    100112: Final_Boss_LOW1:transform24
+    100114: Final_Boss_LOW1:transform25
+    100116: Final_Boss_LOW1:transform26
+    100118: Final_Boss_LOW1:transform27
+    100120: Final_Boss_LOW1:transform28
+    100122: Final_Boss_LOW1:transform29
+    100124: Final_Boss_LOW1:transform3
+    100126: Final_Boss_LOW1:transform30
+    100128: Final_Boss_LOW1:transform31
+    100130: Final_Boss_LOW1:transform32
+    100132: Final_Boss_LOW1:transform33
+    100134: Final_Boss_LOW1:transform34
+    100136: Final_Boss_LOW1:transform35
+    100138: Final_Boss_LOW1:transform36
+    100140: Final_Boss_LOW1:transform37
+    100142: Final_Boss_LOW1:transform38
+    100144: Final_Boss_LOW1:transform4
+    100146: Final_Boss_LOW1:transform5
+    100148: Final_Boss_LOW1:transform6
+    100150: Final_Boss_LOW1:transform7
+    100152: Final_Boss_LOW1:transform8
+    100154: Final_Boss_LOW1:transform9
+    400000: //RootNode
+    400002: Final_Boss_LOW1:Group11033
+    400004: Final_Boss_LOW1:Group11833
+    400006: Final_Boss_LOW1:Group14330
+    400008: Final_Boss_LOW1:Group15453
+    400010: Final_Boss_LOW1:Group18231
+    400012: Final_Boss_LOW1:Group19369
+    400014: Final_Boss_LOW1:Group21403
+    400016: Final_Boss_LOW1:Group21586
+    400018: Final_Boss_LOW1:Group21749
+    400020: Final_Boss_LOW1:Group23199
+    400022: Final_Boss_LOW1:Group23374
+    400024: Final_Boss_LOW1:Group24998
+    400026: Final_Boss_LOW1:Group3271
+    400028: Final_Boss_LOW1:Group35216
+    400030: Final_Boss_LOW1:Group35420
+    400032: Final_Boss_LOW1:Group35582
+    400034: Final_Boss_LOW1:Group35731
+    400036: Final_Boss_LOW1:Group37150
+    400038: Final_Boss_LOW1:Group37433
+    400040: Final_Boss_LOW1:Group37705
+    400042: Final_Boss_LOW1:Group37939
+    400044: Final_Boss_LOW1:Group42223
+    400046: Final_Boss_LOW1:Group42379
+    400048: Final_Boss_LOW1:Group42570
+    400050: Final_Boss_LOW1:Group44715
+    400052: Final_Boss_LOW1:Group48241
+    400054: Final_Boss_LOW1:Group48242
+    400056: Final_Boss_LOW1:Group48243
+    400058: Final_Boss_LOW1:Group48244
+    400060: Final_Boss_LOW1:Group48245
+    400062: Final_Boss_LOW1:Group48246
+    400064: Final_Boss_LOW1:Group48247
+    400066: Final_Boss_LOW1:Group48248
+    400068: Final_Boss_LOW1:Group48249
+    400070: Final_Boss_LOW1:Group48250
+    400072: Final_Boss_LOW1:Group48251
+    400074: Final_Boss_LOW1:Group48252
+    400076: Final_Boss_LOW1:Group5746
+    400078: Final_Boss_LOW1:Group7965
+    400080: Final_Boss_LOW1:transform1
+    400082: Final_Boss_LOW1:transform10
+    400084: Final_Boss_LOW1:transform11
+    400086: Final_Boss_LOW1:transform12
+    400088: Final_Boss_LOW1:transform13
+    400090: Final_Boss_LOW1:transform14
+    400092: Final_Boss_LOW1:transform15
+    400094: Final_Boss_LOW1:transform16
+    400096: Final_Boss_LOW1:transform17
+    400098: Final_Boss_LOW1:transform18
+    400100: Final_Boss_LOW1:transform19
+    400102: Final_Boss_LOW1:transform2
+    400104: Final_Boss_LOW1:transform20
+    400106: Final_Boss_LOW1:transform21
+    400108: Final_Boss_LOW1:transform22
+    400110: Final_Boss_LOW1:transform23
+    400112: Final_Boss_LOW1:transform24
+    400114: Final_Boss_LOW1:transform25
+    400116: Final_Boss_LOW1:transform26
+    400118: Final_Boss_LOW1:transform27
+    400120: Final_Boss_LOW1:transform28
+    400122: Final_Boss_LOW1:transform29
+    400124: Final_Boss_LOW1:transform3
+    400126: Final_Boss_LOW1:transform30
+    400128: Final_Boss_LOW1:transform31
+    400130: Final_Boss_LOW1:transform32
+    400132: Final_Boss_LOW1:transform33
+    400134: Final_Boss_LOW1:transform34
+    400136: Final_Boss_LOW1:transform35
+    400138: Final_Boss_LOW1:transform36
+    400140: Final_Boss_LOW1:transform37
+    400142: Final_Boss_LOW1:transform38
+    400144: Final_Boss_LOW1:transform4
+    400146: Final_Boss_LOW1:transform5
+    400148: Final_Boss_LOW1:transform6
+    400150: Final_Boss_LOW1:transform7
+    400152: Final_Boss_LOW1:transform8
+    400154: Final_Boss_LOW1:transform9
+    2300000: Final_Boss_LOW1:Group48252
+    3300000: Final_Boss_LOW1:Group48252
+    4300000: Final_Boss_LOW1:Group48252
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

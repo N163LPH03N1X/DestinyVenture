@@ -1,0 +1,10 @@
+Frame 1 - 80 : Idle
+Frame 100 - 130 : Attack 1
+Frame 150 - 175 : Attack 2
+Frame 200 - 250 : Attack 3
+Frame 300 - 340 : Attack 4
+Frame 400 - 415 : Startup Walk
+Frame 415 - 475 : Walk Cycle
+Frame 475 - 500 : Finish Walk
+Frame 500 - 580 : Death
+Frame 600 - 660 : Element Change

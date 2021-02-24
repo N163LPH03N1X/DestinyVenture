@@ -1,0 +1,5 @@
+Thunder Monster
+
+Attack 1 : 1 - 25
+Attack 2 : 50 - 85
+Idle : 105 - 135

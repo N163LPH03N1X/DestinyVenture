@@ -1,0 +1,124 @@
+fileFormatVersion: 2
+guid: a6bee176446694e4eace7e2bc49e4fc6
+timeCreated: 1526399821
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: group
+    100002: //RootNode
+    100004: ThunderMonster:Hip
+    100006: ThunderMonster:LElbow
+    100008: ThunderMonster:LFinger1
+    100010: ThunderMonster:LFinger2
+    100012: ThunderMonster:LFinger3
+    100014: ThunderMonster:LHand
+    100016: ThunderMonster:LShoulder
+    100018: ThunderMonster:pSphere1
+    100020: ThunderMonster:RElbow
+    100022: ThunderMonster:RFinger1
+    100024: ThunderMonster:RFinger2
+    100026: ThunderMonster:RFinger3
+    100028: ThunderMonster:RHand
+    100030: ThunderMonster:RShoulder
+    100032: ThunderMonster:Spine
+    100034: ThunderMonster:ThunderMOnster:default1
+    400000: group
+    400002: //RootNode
+    400004: ThunderMonster:Hip
+    400006: ThunderMonster:LElbow
+    400008: ThunderMonster:LFinger1
+    400010: ThunderMonster:LFinger2
+    400012: ThunderMonster:LFinger3
+    400014: ThunderMonster:LHand
+    400016: ThunderMonster:LShoulder
+    400018: ThunderMonster:pSphere1
+    400020: ThunderMonster:RElbow
+    400022: ThunderMonster:RFinger1
+    400024: ThunderMonster:RFinger2
+    400026: ThunderMonster:RFinger3
+    400028: ThunderMonster:RHand
+    400030: ThunderMonster:RShoulder
+    400032: ThunderMonster:Spine
+    400034: ThunderMonster:ThunderMOnster:default1
+    4300000: ThunderMonster:ThunderMOnster:default1
+    4300002: ThunderMonster:pSphere1
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: ThunderMonster:pSphere1
+    13700002: ThunderMonster:ThunderMOnster:default1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

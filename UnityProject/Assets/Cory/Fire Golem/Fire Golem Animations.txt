@@ -1,0 +1,8 @@
+Fire Golem
+
+Start Up Walk : 1 - 15
+Walk Cycle : 15 - 90
+Stop Walk : 90 - 105
+Attack : 150 - 180
+Death : 200 - 225
+Idle : 250 - 290

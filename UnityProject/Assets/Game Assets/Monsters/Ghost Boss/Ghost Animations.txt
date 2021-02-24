@@ -1,0 +1,5 @@
+Frame 1 - 60 : Idle
+Frame 100 - 140 : Attack 1
+Frame 160 - 190 : Attack 2
+Frame 200 - 220 : Attack 3
+Frame 250 - 275 : Death

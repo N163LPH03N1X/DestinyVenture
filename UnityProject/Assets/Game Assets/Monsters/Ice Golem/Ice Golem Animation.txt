@@ -1,0 +1,8 @@
+Ice Golem
+
+Start Up Walk : 1 - 15
+Walk Cycle : 15 - 105
+End Walk : 105 - 120
+Attack : 150 - 180
+Death : 200 - 290
+Idle : 300 - 330
