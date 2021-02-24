@@ -1,0 +1,21 @@
+Put each different type of items here so they may be added to the item list
+
+Enemies
+trolls
+mirelurk type enemy
+
+Pick-ups
+health vial
+stamina vial
+
+Weapons
+sword
+axe
+
+Armor
+light - leather
+heavy - metal
+
+
+
+
