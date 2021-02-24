@@ -1,0 +1,5419 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: attack
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.16666698
+        value: {x: -0.40301472, y: -0.9151935, z: -0.000000065659435, w: -0.00000014910395}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Ice_Golem_Walk:Hips
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 1.125
+        value: {x: 0.8885317, y: 0.45881528, z: -0.0000001447602, w: -0.0000000747505}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:LeftUpLeg
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.041666985
+        value: {x: 0, y: 0, z: 0.060943954, w: 0.99814117}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:LeftUpLeg/Ice_Golem_Walk:LeftLeg
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 1.375
+        value: {x: 0.00011840955, y: -0.0004259939, z: 0.26780742, w: 0.9634724}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:RightUpLeg
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 1
+        value: {x: 0, y: 0, z: 0.044986807, w: 0.99898756}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:RightUpLeg/Ice_Golem_Walk:RightLeg
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.16666698
+        value: {x: 0.35647509, y: -0.93430483, z: 0.000000058077166, w: -0.00000015221758}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: -0.026877832, w: 0.0703828}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.29166698
+        value: {x: 0.36078596, y: -0.9325363, z: 0.0073544434, w: -0.012462842}
+        inSlope: {x: 0.17142296, y: 0.074863434, z: 0.26664138, w: -0.46280026}
+        outSlope: {x: 0.17118454, y: 0.074863434, z: 0.29570982, w: -0.53744763}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.41666698
+        value: {x: 0.38613307, y: -0.9103689, z: 0.06446514, w: -0.13406631}
+        inSlope: {x: 0.088214874, y: 0.21409988, z: 0.34493208, w: -1.0305643}
+        outSlope: {x: 0.08749962, y: 0.21266937, z: 0.34451485, w: -1.0311604}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.541667
+        value: {x: 0.3845631, y: -0.89675856, z: 0.06280762, w: -0.20973906}
+        inSlope: {x: -0.006198883, y: 0.019550323, z: -0.3976822, w: -0.21338463}
+        outSlope: {x: -0.0064373114, y: 0.01888278, z: -0.39850533, w: -0.21307501}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.75
+        value: {x: 0.4011997, y: -0.8889337, z: -0.063880816, w: -0.21155351}
+        inSlope: {x: 0.09226813, y: 0.05664834, z: -0.47757697, w: 0.079751134}
+        outSlope: {x: 0.09274483, y: 0.05674362, z: -0.47671795, w: 0.07939339}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.875
+        value: {x: 0.40722898, y: -0.8904534, z: -0.077512056, w: -0.18774778}
+        inSlope: {x: 0.05555153, y: -0.18501282, z: 0.3927946, w: 0.8341074}
+        outSlope: {x: 0.055074587, y: -0.18525088, z: 0.39374754, w: 0.8366688}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583335
+        value: {x: 0.4139757, y: -0.90758127, z: -0.021755349, w: -0.06668571}
+        inSlope: {x: -0.004291526, y: -0.15020342, z: 0.8109867, w: 1.7604198}
+        outSlope: {x: -0.0028610176, y: -0.14376613, z: 0.8570983, w: 1.6592113}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.041667
+        value: {x: 0.41205564, y: -0.9064088, z: 0.045397, w: 0.081070065}
+        inSlope: {x: -0.112294935, y: 0.1065729, z: 0.6970154, w: 1.3753448}
+        outSlope: {x: -0.10693114, y: 0.11587187, z: 0.6532098, w: 1.4696773}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.125
+        value: {x: 0.40720546, y: -0.8971888, z: 0.07744703, w: 0.15243997}
+        inSlope: {x: -0.021457754, y: 0.039339215, z: 0.10710996, w: 0.23782344}
+        outSlope: {x: -0.021457631, y: 0.03933899, z: 0.105678834, w: 0.23889495}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.2083335
+        value: {x: 0.40720546, y: -0.8971888, z: 0.07744703, w: 0.15243997}
+        inSlope: {x: 0, y: 0, z: -0.0001788136, w: -0.0001788136}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.291667
+        value: {x: 0.40720546, y: -0.8971888, z: 0.07744703, w: 0.15243997}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.375
+        value: {x: 0.4001027, y: -0.9050109, z: 0.06424162, w: 0.12940723}
+        inSlope: {x: -0.29075256, y: -0.29182544, z: -0.48279947, w: -0.89514595}
+        outSlope: {x: -0.2921814, y: -0.29110852, z: -0.48333314, w: -0.8985383}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.4583335
+        value: {x: 0.36514783, y: -0.9305624, z: 0.010939555, w: 0.024516178}
+        inSlope: {x: -0.34260684, y: -0.163078, z: -0.43042666, w: -0.93595505}
+        outSlope: {x: -0.34213066, y: -0.16355515, z: -0.4293397, w: -0.9339303}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5833335
+        value: {x: 0.35647509, y: -0.93430483, z: 0.000000058077166, w: -0.00000015221758}
+        inSlope: {x: 0, y: 0, z: 0.0003110256, w: 0.000118668824}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:Spine
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.20833349
+        value: {x: -0.08145689, y: 0.090219, z: 0.6651757, w: 0.736727}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0.0001788136, y: -0.0001788136, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.29166698
+        value: {x: -0.09839054, y: 0.0997549, z: 0.6566632, w: 0.74105453}
+        inSlope: {x: -0.72938067, y: 0.44113314, z: -0.3669255, w: 0.17023054}
+        outSlope: {x: -0.73099416, y: 0.44185093, z: -0.36907336, w: 0.17023152}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.375
+        value: {x: -0.20286277, y: 0.16740929, z: 0.59977514, w: 0.7557053}
+        inSlope: {x: -1.4712867, y: 1.1565729, z: -0.88191366, w: 0.047922317}
+        outSlope: {x: -1.4723511, y: 1.1576391, z: -0.88190866, w: 0.048637297}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4583335
+        value: {x: -0.3269567, y: 0.277712, z: 0.52323914, w: 0.7363396}
+        inSlope: {x: -1.2094952, y: 1.4144155, z: -0.89263743, w: -0.43773568}
+        outSlope: {x: -1.2094975, y: 1.414299, z: -0.8916855, w: -0.43678284}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5833335
+        value: {x: -0.43518594, y: 0.40665537, z: 0.46045783, w: 0.658197}
+        inSlope: {x: -0.59461594, y: 0.8149147, z: -0.31995773, w: -0.6713867}
+        outSlope: {x: -0.5941993, y: 0.81306773, z: -0.31775266, w: -0.67341393}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.75
+        value: {x: -0.49691147, y: 0.49050438, z: 0.47772026, w: 0.5331678}
+        inSlope: {x: -0.12123597, y: 0.47349975, z: 0.014305129, w: -0.56111866}
+        outSlope: {x: -0.1223085, y: 0.47135264, z: 0.014305088, w: -0.5607594}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8333335
+        value: {x: -0.49867067, y: 0.49895743, z: 0.49210373, w: 0.5101009}
+        inSlope: {x: -0.081539, y: -0.18918478, z: -0.017166104, w: 0.1223085}
+        outSlope: {x: -0.08296998, y: -0.19097401, z: -0.017166203, w: 0.12159394}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.875
+        value: {x: -0.5066035, y: 0.48131275, z: 0.48611385, w: 0.52477074}
+        inSlope: {x: -0.10013618, y: -0.72813314, z: -0.17881462, w: 0.7381467}
+        outSlope: {x: -0.10156554, y: -0.73098576, z: -0.18167357, w: 0.7381383}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.916667
+        value: {x: -0.511401, y: 0.43001172, z: 0.48344144, w: 0.565547}
+        inSlope: {x: 0.33187613, y: -1.4433751, z: 0.2889611, w: 1.1529834}
+        outSlope: {x: 0.33617148, y: -1.4441068, z: 0.28967968, w: 1.1529967}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583335
+        value: {x: -0.47976, y: 0.35782412, z: 0.5111888, w: 0.6168292}
+        inSlope: {x: 1.3332418, y: -1.5728533, z: 1.1487051, w: 0.9970703}
+        outSlope: {x: 1.3361028, y: -1.5728533, z: 1.1515661, w: 0.9956398}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: {x: -0.39936048, y: 0.29738495, z: 0.57830787, w: 0.64624566}
+        inSlope: {x: 2.2022808, y: -0.9641684, z: 1.8110344, w: 0.1859672}
+        outSlope: {x: 2.2051165, y: -0.96201164, z: 1.8138747, w: 0.18167357}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.041667
+        value: {x: -0.296205, y: 0.27620307, z: 0.66094565, w: 0.63176364}
+        inSlope: {x: 2.238018, y: -0.105857044, z: 1.7223227, w: -0.7066673}
+        outSlope: {x: 2.2423353, y: -0.10299722, z: 1.7252034, w: -0.7095364}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.0833335
+        value: {x: -0.2136761, y: 0.28764555, z: 0.72343904, w: 0.5901173}
+        inSlope: {x: 1.3833098, y: 0.2617846, z: 0.9799041, w: -0.8268388}
+        outSlope: {x: 1.3765149, y: 0.26035407, z: 0.974182, w: -0.82254726}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.125
+        value: {x: -0.18209338, y: 0.29858753, z: 0.746116, w: 0.56656724}
+        inSlope: {x: 0.38087514, y: 0.12946178, z: 0.26321512, w: -0.29039493}
+        outSlope: {x: 0.3812284, y: 0.12731455, z: 0.2617816, w: -0.2918221}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.166667
+        value: {x: -0.18209338, y: 0.29858753, z: 0.746116, w: 0.56656724}
+        inSlope: {x: -0.00035762513, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.291667
+        value: {x: -0.18209338, y: 0.29858753, z: 0.746116, w: 0.56656724}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: -0.00035762924, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.3333335
+        value: {x: -0.18209329, y: 0.29858738, z: 0.74611604, w: 0.5665672}
+        inSlope: {x: 0.26464564, y: -0.3318799, z: -0.044346023, w: 0.31471372}
+        outSlope: {x: 0.26464564, y: -0.3318799, z: -0.04291551, w: 0.31614423}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.375
+        value: {x: -0.15973008, y: 0.2707541, z: 0.74174523, w: 0.59244627}
+        inSlope: {x: 0.7381467, y: -1.1522814, z: -0.24890995, w: 1.0385553}
+        outSlope: {x: 0.7409993, y: -1.1587055, z: -0.2531986, w: 1.0442654}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.416667
+        value: {x: -0.11865434, y: 0.20239699, z: 0.7216298, w: 0.6513118}
+        inSlope: {x: 0.8087692, y: -1.7520056, z: -0.66089123, w: 1.4233481}
+        outSlope: {x: 0.80538106, y: -1.7473764, z: -0.6594683, w: 1.4190727}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.4583335
+        value: {x: -0.0900361, y: 0.12645964, z: 0.68634886, w: 0.7105115}
+        inSlope: {x: 0.43255255, y: -1.3586334, z: -0.7181195, w: 0.9899177}
+        outSlope: {x: 0.43255255, y: -1.3607793, z: -0.7181195, w: 0.9899177}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: {x: -0.08145689, y: 0.090219, z: 0.6651757, w: 0.736727}
+        inSlope: {x: 0.102103144, y: -0.437917, z: -0.26750666, w: 0.3047001}
+        outSlope: {x: 0.102101974, y: -0.43540862, z: -0.2646426, w: 0.30183563}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.541667
+        value: {x: -0.08145689, y: 0.090219, z: 0.6651757, w: 0.736727}
+        inSlope: {x: -0.00017881257, y: 0.0005364377, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:Spine/Ice_Golem_Walk:Upper_Spine/Ice_Golem_Walk:LeftShoulder/Ice_Golem_Walk:LeftArm
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.0000004553629, y: 0.00021375426, z: -0.0021303054, w: 0.99999774}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0.00000003069542, y: -0.00000006984914, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.20833349
+        value: {x: 0.0000004553629, y: 0.00021375426, z: -0.0021303054, w: 0.99999774}
+        inSlope: {x: 0.00000030831848, y: -0.00000041909485, z: 0.0000011175863, w: 0}
+        outSlope: {x: 0.00000056866156, y: 0.00010279473, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3333335
+        value: {x: 0.00010280623, y: 0.04825881, z: -0.0021278237, w: 0.99883264}
+        inSlope: {x: 0.0022165477, y: 1.0480881, z: 0.0003017485, w: -0.05054474}
+        outSlope: {x: 0.002219982, y: 1.049757, z: 0.0003054738, w: -0.051021576}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4583335
+        value: {x: 0.0004992948, y: 0.2343766, z: -0.0020709676, w: 0.97214353}
+        inSlope: {x: 0.003437046, y: 1.683116, z: 0.0013746321, w: -0.40578842}
+        outSlope: {x: 0.003435885, y: 1.6838924, z: 0.0013760304, w: -0.40590802}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.625
+        value: {x: 0.0010014533, y: 0.4700972, z: -0.001880238, w: 0.88261205}
+        inSlope: {x: 0.0018314476, y: 0.91946214, z: 0.0012635731, w: -0.48959303}
+        outSlope: {x: 0.0018288494, y: 0.9184895, z: 0.0012636703, w: -0.48943874}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.916667
+        value: {x: 0.001368622, y: 0.6424518, z: -0.0016325063, w: 0.76632315}
+        inSlope: {x: 0.00051209383, y: 0.25442642, z: 0.0004885447, w: -0.21335034}
+        outSlope: {x: 0.00051409204, y: 0.25320148, z: 0.00048615225, w: -0.21314703}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583335
+        value: {x: 0.0013860181, y: 0.6506179, z: -0.0016177625, w: 0.7594023}
+        inSlope: {x: 0.00027939785, y: 0.13160756, z: 0.00024028214, w: -0.11158032}
+        outSlope: {x: 0.00028219182, y: 0.13303807, z: 0.00023748816, w: -0.11444136}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: {x: 0.0013920458, y: 0.65344745, z: -0.0016125789, w: 0.75696886}
+        inSlope: {x: -0.0018272619, y: -0.83542186, z: -0.0014808086, w: 0.7209805}
+        outSlope: {x: -0.0018300349, y: -0.83970386, z: -0.0014919674, w: 0.72383326}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.041667
+        value: {x: 0.001231038, y: 0.57786787, z: -0.0017386053, w: 0.81612754}
+        inSlope: {x: -0.006822817, y: -2.992607, z: -0.0038556461, w: 2.1200018}
+        outSlope: {x: -0.006845247, y: -3.0040855, z: -0.00386966, w: 2.1271787}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.0833335
+        value: {x: 0.00083915034, y: 0.3939099, z: -0.0019580678, w: 0.9191466}
+        inSlope: {x: -0.010367056, y: -4.6255765, z: -0.002833094, w: 1.9826964}
+        outSlope: {x: -0.010346102, y: -4.6119866, z: -0.002821918, w: 1.9755439}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.125
+        value: {x: 0.00040996, y: 0.1924415, z: -0.002090487, w: 0.9813062}
+        inSlope: {x: -0.0077539887, y: -3.5809414, z: -0.0007264344, w: 0.7038143}
+        outSlope: {x: -0.0077692666, y: -3.5884106, z: -0.0007208382, w: 0.70237577}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.166667
+        value: {x: 0.00020766117, y: 0.097479306, z: -0.0021201598, w: 0.99523526}
+        inSlope: {x: -0.001590454, y: -0.74654245, z: -0.00011734575, w: 0.07295553}
+        outSlope: {x: -0.0015765023, y: -0.73975605, z: -0.00012293505, w: 0.07295636}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.2083335
+        value: {x: 0.00027870372, y: 0.13082764, z: -0.0021119958, w: 0.9914028}
+        inSlope: {x: 0.0024202839, y: 1.1397643, z: 0.00039674493, w: -0.15020427}
+        outSlope: {x: 0.0024265703, y: 1.1433407, z: 0.0004023329, w: -0.1516348}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.25
+        value: {x: 0.00040974378, y: 0.19233997, z: -0.0020905293, w: 0.98132604}
+        inSlope: {x: 0.0023874545, y: 1.1308236, z: 0.00054203183, w: -0.22173013}
+        outSlope: {x: 0.0023818528, y: 1.1279562, z: 0.0005392347, w: -0.2210136}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.3333335
+        value: {x: 0.0004796768, y: 0.22516757, z: -0.0020755995, w: 0.9743177}
+        inSlope: {x: -0.00088463834, y: -0.41341704, z: -0.00018440152, w: 0.09584408}
+        outSlope: {x: -0.0008877866, y: -0.41413465, z: -0.00018440257, w: 0.095844634}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.375
+        value: {x: 0.0004058038, y: 0.19049047, z: -0.0020912974, w: 0.9816868}
+        inSlope: {x: -0.0028645264, y: -1.3332418, z: -0.0004414486, w: 0.25892356}
+        outSlope: {x: -0.0028770664, y: -1.3385909, z: -0.00044703143, w: 0.2589206}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.416667
+        value: {x: 0.00024161812, y: 0.11341923, z: -0.002116559, w: 0.99354494}
+        inSlope: {x: -0.003980326, y: -1.860366, z: -0.0002458673, w: 0.21314459}
+        outSlope: {x: -0.0039684973, y: -1.8553804, z: -0.00025145806, w: 0.2117165}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.4583335
+        value: {x: 0.00007596538, y: 0.035659313, z: -0.0021289506, w: 0.99936175}
+        inSlope: {x: -0.0028943869, y: -1.358097, z: 0, w: 0.048637576}
+        outSlope: {x: -0.0028937357, y: -1.357466, z: -0.0000018626451, w: 0.048160553}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5833335
+        value: {x: 0.0000004553629, y: 0.00021375426, z: -0.0021303054, w: 0.99999774}
+        inSlope: {x: 0.0000014715624, y: 0.00043935142, z: 0.0000018626451, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:Spine/Ice_Golem_Walk:Upper_Spine/Ice_Golem_Walk:LeftShoulder/Ice_Golem_Walk:LeftArm/Ice_Golem_Walk:LeftForeArm
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.16666698
+        value: {x: 0, y: 0, z: 0.6485839, w: 0.7611432}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0.00019637075, y: -0.00023107193, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.29166698
+        value: {x: -0.01040258, y: 0.012207913, z: 0.64850044, w: 0.7610453}
+        inSlope: {x: -0.4458502, y: 0.52363425, z: -0.009059906, w: -0.00667572}
+        outSlope: {x: -0.4470274, y: 0.52500516, z: -0.009059906, w: -0.006198883}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.41666698
+        value: {x: -0.1132583, y: 0.13291387, z: 0.6386185, w: 0.7494485}
+        inSlope: {x: -0.89770555, y: 1.0671616, z: -0.17213821, w: -0.17690659}
+        outSlope: {x: -0.8969903, y: 1.0664463, z: -0.17356873, w: -0.17881393}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.541667
+        value: {x: -0.18512362, y: 0.21725118, z: 0.621603, w: 0.7294798}
+        inSlope: {x: -0.120162964, y: 0.14150143, z: -0.035762787, w: -0.042438507}
+        outSlope: {x: -0.11920929, y: 0.14019012, z: -0.035762787, w: -0.041007996}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.666667
+        value: {x: -0.1851235, y: 0.21725103, z: 0.621603, w: 0.7294799}
+        inSlope: {x: 0.00011920929, y: -0.00023841858, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.291667
+        value: {x: -0.1851235, y: 0.21725103, z: 0.621603, w: 0.7294799}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: -0.00035762924, y: 0.0007152585, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.3333335
+        value: {x: -0.18512346, y: 0.21725099, z: 0.621603, w: 0.7294799}
+        inSlope: {x: 0.33831725, y: -0.3951803, z: 0.09870567, w: 0.11730239}
+        outSlope: {x: 0.33795962, y: -0.3951803, z: 0.10013618, w: 0.11730239}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.375
+        value: {x: -0.15683065, y: 0.18404803, z: 0.6293371, w: 0.73855627}
+        inSlope: {x: 1.0932726, y: -1.2745906, z: 0.26607615, w: 0.32329682}
+        outSlope: {x: 1.0986245, y: -1.2810133, z: 0.2660731, w: 0.32615414}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.416667
+        value: {x: -0.093539186, y: 0.10977259, z: 0.6418033, w: 0.75318587}
+        inSlope: {x: 1.5358212, y: -1.7945629, z: 0.21171409, w: 0.2732256}
+        outSlope: {x: 1.5304743, y: -1.7888614, z: 0.2117165, w: 0.26893717}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.4583335
+        value: {x: -0.029323263, y: 0.034412213, z: 0.6479206, w: 0.76036483}
+        inSlope: {x: 1.1230452, y: -1.316612, z: 0.045776542, w: 0.06294274}
+        outSlope: {x: 1.1243863, y: -1.3184896, z: 0.045776542, w: 0.06437326}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: {x: 0, y: 0, z: 0.6485839, w: 0.7611432}
+        inSlope: {x: 0.35254616, y: -0.41375926, z: 0, w: 0}
+        outSlope: {x: 0.35057995, y: -0.41142684, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.541667
+        value: {x: 0, y: 0, z: 0.6485839, w: 0.7611432}
+        inSlope: {x: -0.0004017065, y: 0.0004515327, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:Spine/Ice_Golem_Walk:Upper_Spine/Ice_Golem_Walk:Neck/Ice_Golem_Walk:Head
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.20833349
+        value: {x: 0.0671651, y: -0.06754436, z: 0.70190704, w: 0.7058705}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: -0.00011920929, y: 0.000059604645, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3333335
+        value: {x: 0.040501438, y: -0.040730145, z: 0.70394903, w: 0.707924}
+        inSlope: {x: -0.55998564, y: 0.5631447, z: 0.03194809, w: 0.032901764}
+        outSlope: {x: -0.5608728, y: 0.56400204, z: 0.032186538, w: 0.032186538}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5
+        value: {x: -0.076992616, y: 0.07742739, z: 0.70089716, w: 0.70485485}
+        inSlope: {x: -0.5579894, y: 0.5612975, z: -0.061154425, w: -0.061512053}
+        outSlope: {x: -0.5567904, y: 0.5600448, z: -0.061225843, w: -0.061225843}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7083335
+        value: {x: -0.10351424, y: 0.10409877, z: 0.69747365, w: 0.701412}
+        inSlope: {x: 0.0001788138, y: -0.0001788138, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.291667
+        value: {x: -0.10351424, y: 0.10409877, z: 0.69747365, w: 0.701412}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.375
+        value: {x: -0.07699261, y: 0.07742739, z: 0.70089716, w: 0.70485485}
+        inSlope: {x: 1.0193328, y: -1.024876, z: 0.112295575, w: 0.11301084}
+        outSlope: {x: 1.0222715, y: -1.0279934, z: 0.11014854, w: 0.111579046}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.416667
+        value: {x: -0.018308805, y: 0.018412191, z: 0.7048754, w: 0.7088557}
+        inSlope: {x: 1.41177, y: -1.4197271, z: 0.034332015, w: 0.037193015}
+        outSlope: {x: 1.4078969, y: -1.4158094, z: 0.03719344, w: 0.03719344}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.4583335
+        value: {x: 0.04050169, y: -0.040730402, z: 0.70394903, w: 0.707924}
+        inSlope: {x: 1.0227302, y: -1.0286311, z: -0.058651194, w: -0.060081713}
+        outSlope: {x: 1.0225456, y: -1.028357, z: -0.059366114, w: -0.059366114}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.541667
+        value: {x: 0.0671651, y: -0.06754436, z: 0.70190704, w: 0.7058705}
+        inSlope: {x: 0.0000894068, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:Spine/Ice_Golem_Walk:Upper_Spine/Ice_Golem_Walk:RightShoulder/Ice_Golem_Walk:RightArm
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 1.125
+        value: {x: -0.000007877555, y: -0.0004686533, z: -0.016806547, w: 0.9998586}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:Spine/Ice_Golem_Walk:Upper_Spine/Ice_Golem_Walk:RightShoulder/Ice_Golem_Walk:RightArm/Ice_Golem_Walk:RightForeArm
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.16666698
+        value: {x: -0.01780324, y: 0.026699375, z: -0.00826807}
+        inSlope: {x: -1.115171e-16, y: 0, z: 0}
+        outSlope: {x: -1.115171e-16, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Ice_Golem_Walk:Hips
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.16666698
+        value: {x: 0.50247335, y: 0.47796652, z: 0.083454065}
+        inSlope: {x: 4.7580627e-15, y: 2.3790314e-15, z: 2.9737892e-16}
+        outSlope: {x: 4.7580627e-15, y: 2.3790314e-15, z: 2.9737892e-16}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8333335
+        value: {x: 0.50247335, y: 0.47796652, z: 0.083454065}
+        inSlope: {x: 4.7581174e-15, y: 2.3790587e-15, z: 2.9738234e-16}
+        outSlope: {x: 4.7581174e-15, y: 2.3790587e-15, z: 2.9738234e-16}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.125
+        value: {x: 0.50247335, y: 0.47796652, z: 0.013136055}
+        inSlope: {x: 4.7581174e-15, y: 2.3790587e-15, z: 0.0000018336482}
+        outSlope: {x: 4.7581174e-15, y: 2.3790587e-15, z: 0.0000018336482}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.3333335
+        value: {x: 0.50247335, y: 0.47796652, z: 0.013136055}
+        inSlope: {x: 4.7580627e-15, y: 2.3790314e-15, z: -2.3542497e-16}
+        outSlope: {x: 4.7580627e-15, y: 2.3790314e-15, z: -2.3542497e-16}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: {x: 0.50247335, y: 0.47796652, z: 0.1}
+        inSlope: {x: 4.7581174e-15, y: 2.3790587e-15, z: -0.000011527483}
+        outSlope: {x: 4.7581174e-15, y: 2.3790587e-15, z: -0.000011527483}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:Spine
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.16666698
+        value: {x: -0.55592227, y: -8.881784e-16, z: 8.326673e-17}
+        inSlope: {x: -3.5685473e-15, y: -4.2260086e-30, z: -0}
+        outSlope: {x: -3.5685473e-15, y: -4.2260086e-30, z: -0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8333335
+        value: {x: -0.55592227, y: -8.881784e-16, z: 8.326673e-17}
+        inSlope: {x: -3.568588e-15, y: -4.226057e-30, z: -0}
+        outSlope: {x: -3.568588e-15, y: -4.226057e-30, z: -0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.125
+        value: {x: -0.56052905, y: 0.07156421, z: 0.2003923}
+        inSlope: {x: -0.0000012254078, y: -0.000001399587, z: -0.000004239009}
+        outSlope: {x: -0.0000012254078, y: -0.000001399587, z: -0.000004239009}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.3333335
+        value: {x: -0.56052905, y: 0.07156421, z: 0.2003923}
+        inSlope: {x: -1.1895157e-15, y: 2.9737892e-16, z: 5.9475784e-16}
+        outSlope: {x: -1.1895157e-15, y: 2.9737892e-16, z: 5.9475784e-16}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: {x: -0.56052905, y: 0, z: 0}
+        inSlope: {x: -1.1895293e-15, y: 0.000009692774, z: 0.000027034666}
+        outSlope: {x: -1.1895293e-15, y: 0.000009692774, z: 0.000027034666}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:Spine/Ice_Golem_Walk:Upper_Spine/Ice_Golem_Walk:LeftShoulder/Ice_Golem_Walk:LeftArm
+  m_ScaleCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.16666698
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:Spine
+  m_FloatCurves: []
+  m_PPtrCurves: []
+  m_SampleRate: 60
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - serializedVersion: 2
+      path: 1384082918
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1523989084
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1384082918
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1523989084
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3721555195
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1562922661
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3092669655
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3388056627
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3388056627
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3564644406
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 376128791
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 129723583
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 596459865
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2262663878
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1384082918
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 1.5833335
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 1
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.16666698
+        value: -0.01780324
+        inSlope: -1.115171e-16
+        outSlope: -1.115171e-16
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Ice_Golem_Walk:Hips
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.16666698
+        value: 0.026699375
+        inSlope: 7.434473e-17
+        outSlope: 7.434473e-17
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Ice_Golem_Walk:Hips
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.16666698
+        value: -0.00826807
+        inSlope: 9.91263e-17
+        outSlope: 9.91263e-17
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Ice_Golem_Walk:Hips
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.16666698
+        value: -0.40301472
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Ice_Golem_Walk:Hips
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.16666698
+        value: -0.9151935
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Ice_Golem_Walk:Hips
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.16666698
+        value: -0.000000065659435
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Ice_Golem_Walk:Hips
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.16666698
+        value: -0.00000014910395
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Ice_Golem_Walk:Hips
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 1.125
+        value: 0.8885317
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:LeftUpLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 1.125
+        value: 0.45881528
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:LeftUpLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 1.125
+        value: -0.0000001447602
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:LeftUpLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 1.125
+        value: -0.0000000747505
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:LeftUpLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.041666985
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:LeftUpLeg/Ice_Golem_Walk:LeftLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.041666985
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:LeftUpLeg/Ice_Golem_Walk:LeftLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.041666985
+        value: 0.060943954
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:LeftUpLeg/Ice_Golem_Walk:LeftLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.041666985
+        value: 0.99814117
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:LeftUpLeg/Ice_Golem_Walk:LeftLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 1.375
+        value: 0.00011840955
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:RightUpLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 1.375
+        value: -0.0004259939
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:RightUpLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 1.375
+        value: 0.26780742
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:RightUpLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 1.375
+        value: 0.9634724
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:RightUpLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:RightUpLeg/Ice_Golem_Walk:RightLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:RightUpLeg/Ice_Golem_Walk:RightLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 1
+        value: 0.044986807
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:RightUpLeg/Ice_Golem_Walk:RightLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 1
+        value: 0.99898756
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:RightUpLeg/Ice_Golem_Walk:RightLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.16666698
+        value: 0.50247335
+        inSlope: 4.7580627e-15
+        outSlope: 4.7580627e-15
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8333335
+        value: 0.50247335
+        inSlope: 4.7581174e-15
+        outSlope: 4.7581174e-15
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.125
+        value: 0.50247335
+        inSlope: 4.7581174e-15
+        outSlope: 4.7581174e-15
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.3333335
+        value: 0.50247335
+        inSlope: 4.7580627e-15
+        outSlope: 4.7580627e-15
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: 0.50247335
+        inSlope: 4.7581174e-15
+        outSlope: 4.7581174e-15
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:Spine
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.16666698
+        value: 0.47796652
+        inSlope: 2.3790314e-15
+        outSlope: 2.3790314e-15
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8333335
+        value: 0.47796652
+        inSlope: 2.3790587e-15
+        outSlope: 2.3790587e-15
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.125
+        value: 0.47796652
+        inSlope: 2.3790587e-15
+        outSlope: 2.3790587e-15
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.3333335
+        value: 0.47796652
+        inSlope: 2.3790314e-15
+        outSlope: 2.3790314e-15
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: 0.47796652
+        inSlope: 2.3790587e-15
+        outSlope: 2.3790587e-15
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:Spine
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.16666698
+        value: 0.083454065
+        inSlope: 2.9737892e-16
+        outSlope: 2.9737892e-16
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8333335
+        value: 0.083454065
+        inSlope: 2.9738234e-16
+        outSlope: 2.9738234e-16
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.125
+        value: 0.013136055
+        inSlope: 0.0000018336482
+        outSlope: 0.0000018336482
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.3333335
+        value: 0.013136055
+        inSlope: -2.3542497e-16
+        outSlope: -2.3542497e-16
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: 0.1
+        inSlope: -0.000011527483
+        outSlope: -0.000011527483
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:Spine
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.16666698
+        value: 0.35647509
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.29166698
+        value: 0.36078596
+        inSlope: 0.17142296
+        outSlope: 0.17118454
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.41666698
+        value: 0.38613307
+        inSlope: 0.088214874
+        outSlope: 0.08749962
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.541667
+        value: 0.3845631
+        inSlope: -0.006198883
+        outSlope: -0.0064373114
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.75
+        value: 0.4011997
+        inSlope: 0.09226813
+        outSlope: 0.09274483
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.875
+        value: 0.40722898
+        inSlope: 0.05555153
+        outSlope: 0.055074587
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583335
+        value: 0.4139757
+        inSlope: -0.004291526
+        outSlope: -0.0028610176
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.041667
+        value: 0.41205564
+        inSlope: -0.112294935
+        outSlope: -0.10693114
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.125
+        value: 0.40720546
+        inSlope: -0.021457754
+        outSlope: -0.021457631
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.2083335
+        value: 0.40720546
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.291667
+        value: 0.40720546
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.375
+        value: 0.4001027
+        inSlope: -0.29075256
+        outSlope: -0.2921814
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.4583335
+        value: 0.36514783
+        inSlope: -0.34260684
+        outSlope: -0.34213066
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5833335
+        value: 0.35647509
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:Spine
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.16666698
+        value: -0.93430483
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.29166698
+        value: -0.9325363
+        inSlope: 0.074863434
+        outSlope: 0.074863434
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.41666698
+        value: -0.9103689
+        inSlope: 0.21409988
+        outSlope: 0.21266937
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.541667
+        value: -0.89675856
+        inSlope: 0.019550323
+        outSlope: 0.01888278
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.75
+        value: -0.8889337
+        inSlope: 0.05664834
+        outSlope: 0.05674362
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.875
+        value: -0.8904534
+        inSlope: -0.18501282
+        outSlope: -0.18525088
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583335
+        value: -0.90758127
+        inSlope: -0.15020342
+        outSlope: -0.14376613
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.041667
+        value: -0.9064088
+        inSlope: 0.1065729
+        outSlope: 0.11587187
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.125
+        value: -0.8971888
+        inSlope: 0.039339215
+        outSlope: 0.03933899
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.2083335
+        value: -0.8971888
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.291667
+        value: -0.8971888
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.375
+        value: -0.9050109
+        inSlope: -0.29182544
+        outSlope: -0.29110852
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.4583335
+        value: -0.9305624
+        inSlope: -0.163078
+        outSlope: -0.16355515
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5833335
+        value: -0.93430483
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:Spine
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.16666698
+        value: 0.000000058077166
+        inSlope: 0
+        outSlope: -0.026877832
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.29166698
+        value: 0.0073544434
+        inSlope: 0.26664138
+        outSlope: 0.29570982
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.41666698
+        value: 0.06446514
+        inSlope: 0.34493208
+        outSlope: 0.34451485
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.541667
+        value: 0.06280762
+        inSlope: -0.3976822
+        outSlope: -0.39850533
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.75
+        value: -0.063880816
+        inSlope: -0.47757697
+        outSlope: -0.47671795
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.875
+        value: -0.077512056
+        inSlope: 0.3927946
+        outSlope: 0.39374754
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583335
+        value: -0.021755349
+        inSlope: 0.8109867
+        outSlope: 0.8570983
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.041667
+        value: 0.045397
+        inSlope: 0.6970154
+        outSlope: 0.6532098
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.125
+        value: 0.07744703
+        inSlope: 0.10710996
+        outSlope: 0.105678834
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.2083335
+        value: 0.07744703
+        inSlope: -0.0001788136
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.291667
+        value: 0.07744703
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.375
+        value: 0.06424162
+        inSlope: -0.48279947
+        outSlope: -0.48333314
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.4583335
+        value: 0.010939555
+        inSlope: -0.43042666
+        outSlope: -0.4293397
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5833335
+        value: 0.000000058077166
+        inSlope: 0.0003110256
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:Spine
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.16666698
+        value: -0.00000015221758
+        inSlope: 0
+        outSlope: 0.0703828
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.29166698
+        value: -0.012462842
+        inSlope: -0.46280026
+        outSlope: -0.53744763
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.41666698
+        value: -0.13406631
+        inSlope: -1.0305643
+        outSlope: -1.0311604
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.541667
+        value: -0.20973906
+        inSlope: -0.21338463
+        outSlope: -0.21307501
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.75
+        value: -0.21155351
+        inSlope: 0.079751134
+        outSlope: 0.07939339
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.875
+        value: -0.18774778
+        inSlope: 0.8341074
+        outSlope: 0.8366688
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583335
+        value: -0.06668571
+        inSlope: 1.7604198
+        outSlope: 1.6592113
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.041667
+        value: 0.081070065
+        inSlope: 1.3753448
+        outSlope: 1.4696773
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.125
+        value: 0.15243997
+        inSlope: 0.23782344
+        outSlope: 0.23889495
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.2083335
+        value: 0.15243997
+        inSlope: -0.0001788136
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.291667
+        value: 0.15243997
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.375
+        value: 0.12940723
+        inSlope: -0.89514595
+        outSlope: -0.8985383
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.4583335
+        value: 0.024516178
+        inSlope: -0.93595505
+        outSlope: -0.9339303
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5833335
+        value: -0.00000015221758
+        inSlope: 0.000118668824
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:Spine
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.16666698
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:Spine
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.16666698
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:Spine
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.16666698
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:Spine
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.16666698
+        value: -0.55592227
+        inSlope: -3.5685473e-15
+        outSlope: -3.5685473e-15
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8333335
+        value: -0.55592227
+        inSlope: -3.568588e-15
+        outSlope: -3.568588e-15
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.125
+        value: -0.56052905
+        inSlope: -0.0000012254078
+        outSlope: -0.0000012254078
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.3333335
+        value: -0.56052905
+        inSlope: -1.1895157e-15
+        outSlope: -1.1895157e-15
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: -0.56052905
+        inSlope: -1.1895293e-15
+        outSlope: -1.1895293e-15
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:Spine/Ice_Golem_Walk:Upper_Spine/Ice_Golem_Walk:LeftShoulder/Ice_Golem_Walk:LeftArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.16666698
+        value: -8.881784e-16
+        inSlope: -4.2260086e-30
+        outSlope: -4.2260086e-30
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8333335
+        value: -8.881784e-16
+        inSlope: -4.226057e-30
+        outSlope: -4.226057e-30
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.125
+        value: 0.07156421
+        inSlope: -0.000001399587
+        outSlope: -0.000001399587
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.3333335
+        value: 0.07156421
+        inSlope: 2.9737892e-16
+        outSlope: 2.9737892e-16
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: 0
+        inSlope: 0.000009692774
+        outSlope: 0.000009692774
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:Spine/Ice_Golem_Walk:Upper_Spine/Ice_Golem_Walk:LeftShoulder/Ice_Golem_Walk:LeftArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.16666698
+        value: 8.326673e-17
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8333335
+        value: 8.326673e-17
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.125
+        value: 0.2003923
+        inSlope: -0.000004239009
+        outSlope: -0.000004239009
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.3333335
+        value: 0.2003923
+        inSlope: 5.9475784e-16
+        outSlope: 5.9475784e-16
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: 0
+        inSlope: 0.000027034666
+        outSlope: 0.000027034666
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:Spine/Ice_Golem_Walk:Upper_Spine/Ice_Golem_Walk:LeftShoulder/Ice_Golem_Walk:LeftArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.20833349
+        value: -0.08145689
+        inSlope: 0
+        outSlope: 0.0001788136
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.29166698
+        value: -0.09839054
+        inSlope: -0.72938067
+        outSlope: -0.73099416
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.375
+        value: -0.20286277
+        inSlope: -1.4712867
+        outSlope: -1.4723511
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4583335
+        value: -0.3269567
+        inSlope: -1.2094952
+        outSlope: -1.2094975
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5833335
+        value: -0.43518594
+        inSlope: -0.59461594
+        outSlope: -0.5941993
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.75
+        value: -0.49691147
+        inSlope: -0.12123597
+        outSlope: -0.1223085
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8333335
+        value: -0.49867067
+        inSlope: -0.081539
+        outSlope: -0.08296998
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.875
+        value: -0.5066035
+        inSlope: -0.10013618
+        outSlope: -0.10156554
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.916667
+        value: -0.511401
+        inSlope: 0.33187613
+        outSlope: 0.33617148
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583335
+        value: -0.47976
+        inSlope: 1.3332418
+        outSlope: 1.3361028
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: -0.39936048
+        inSlope: 2.2022808
+        outSlope: 2.2051165
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.041667
+        value: -0.296205
+        inSlope: 2.238018
+        outSlope: 2.2423353
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.0833335
+        value: -0.2136761
+        inSlope: 1.3833098
+        outSlope: 1.3765149
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.125
+        value: -0.18209338
+        inSlope: 0.38087514
+        outSlope: 0.3812284
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.166667
+        value: -0.18209338
+        inSlope: -0.00035762513
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.291667
+        value: -0.18209338
+        inSlope: 0
+        outSlope: -0.00035762924
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.3333335
+        value: -0.18209329
+        inSlope: 0.26464564
+        outSlope: 0.26464564
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.375
+        value: -0.15973008
+        inSlope: 0.7381467
+        outSlope: 0.7409993
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.416667
+        value: -0.11865434
+        inSlope: 0.8087692
+        outSlope: 0.80538106
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.4583335
+        value: -0.0900361
+        inSlope: 0.43255255
+        outSlope: 0.43255255
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: -0.08145689
+        inSlope: 0.102103144
+        outSlope: 0.102101974
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.541667
+        value: -0.08145689
+        inSlope: -0.00017881257
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:Spine/Ice_Golem_Walk:Upper_Spine/Ice_Golem_Walk:LeftShoulder/Ice_Golem_Walk:LeftArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.20833349
+        value: 0.090219
+        inSlope: 0
+        outSlope: -0.0001788136
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.29166698
+        value: 0.0997549
+        inSlope: 0.44113314
+        outSlope: 0.44185093
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.375
+        value: 0.16740929
+        inSlope: 1.1565729
+        outSlope: 1.1576391
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4583335
+        value: 0.277712
+        inSlope: 1.4144155
+        outSlope: 1.414299
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5833335
+        value: 0.40665537
+        inSlope: 0.8149147
+        outSlope: 0.81306773
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.75
+        value: 0.49050438
+        inSlope: 0.47349975
+        outSlope: 0.47135264
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8333335
+        value: 0.49895743
+        inSlope: -0.18918478
+        outSlope: -0.19097401
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.875
+        value: 0.48131275
+        inSlope: -0.72813314
+        outSlope: -0.73098576
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.916667
+        value: 0.43001172
+        inSlope: -1.4433751
+        outSlope: -1.4441068
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583335
+        value: 0.35782412
+        inSlope: -1.5728533
+        outSlope: -1.5728533
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 0.29738495
+        inSlope: -0.9641684
+        outSlope: -0.96201164
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.041667
+        value: 0.27620307
+        inSlope: -0.105857044
+        outSlope: -0.10299722
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.0833335
+        value: 0.28764555
+        inSlope: 0.2617846
+        outSlope: 0.26035407
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.125
+        value: 0.29858753
+        inSlope: 0.12946178
+        outSlope: 0.12731455
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.166667
+        value: 0.29858753
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.291667
+        value: 0.29858753
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.3333335
+        value: 0.29858738
+        inSlope: -0.3318799
+        outSlope: -0.3318799
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.375
+        value: 0.2707541
+        inSlope: -1.1522814
+        outSlope: -1.1587055
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.416667
+        value: 0.20239699
+        inSlope: -1.7520056
+        outSlope: -1.7473764
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.4583335
+        value: 0.12645964
+        inSlope: -1.3586334
+        outSlope: -1.3607793
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: 0.090219
+        inSlope: -0.437917
+        outSlope: -0.43540862
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.541667
+        value: 0.090219
+        inSlope: 0.0005364377
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:Spine/Ice_Golem_Walk:Upper_Spine/Ice_Golem_Walk:LeftShoulder/Ice_Golem_Walk:LeftArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.20833349
+        value: 0.6651757
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.29166698
+        value: 0.6566632
+        inSlope: -0.3669255
+        outSlope: -0.36907336
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.375
+        value: 0.59977514
+        inSlope: -0.88191366
+        outSlope: -0.88190866
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4583335
+        value: 0.52323914
+        inSlope: -0.89263743
+        outSlope: -0.8916855
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5833335
+        value: 0.46045783
+        inSlope: -0.31995773
+        outSlope: -0.31775266
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.75
+        value: 0.47772026
+        inSlope: 0.014305129
+        outSlope: 0.014305088
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8333335
+        value: 0.49210373
+        inSlope: -0.017166104
+        outSlope: -0.017166203
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.875
+        value: 0.48611385
+        inSlope: -0.17881462
+        outSlope: -0.18167357
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.916667
+        value: 0.48344144
+        inSlope: 0.2889611
+        outSlope: 0.28967968
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583335
+        value: 0.5111888
+        inSlope: 1.1487051
+        outSlope: 1.1515661
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 0.57830787
+        inSlope: 1.8110344
+        outSlope: 1.8138747
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.041667
+        value: 0.66094565
+        inSlope: 1.7223227
+        outSlope: 1.7252034
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.0833335
+        value: 0.72343904
+        inSlope: 0.9799041
+        outSlope: 0.974182
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.125
+        value: 0.746116
+        inSlope: 0.26321512
+        outSlope: 0.2617816
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.166667
+        value: 0.746116
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.291667
+        value: 0.746116
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.3333335
+        value: 0.74611604
+        inSlope: -0.044346023
+        outSlope: -0.04291551
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.375
+        value: 0.74174523
+        inSlope: -0.24890995
+        outSlope: -0.2531986
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.416667
+        value: 0.7216298
+        inSlope: -0.66089123
+        outSlope: -0.6594683
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.4583335
+        value: 0.68634886
+        inSlope: -0.7181195
+        outSlope: -0.7181195
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: 0.6651757
+        inSlope: -0.26750666
+        outSlope: -0.2646426
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.541667
+        value: 0.6651757
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:Spine/Ice_Golem_Walk:Upper_Spine/Ice_Golem_Walk:LeftShoulder/Ice_Golem_Walk:LeftArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.20833349
+        value: 0.736727
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.29166698
+        value: 0.74105453
+        inSlope: 0.17023054
+        outSlope: 0.17023152
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.375
+        value: 0.7557053
+        inSlope: 0.047922317
+        outSlope: 0.048637297
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4583335
+        value: 0.7363396
+        inSlope: -0.43773568
+        outSlope: -0.43678284
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5833335
+        value: 0.658197
+        inSlope: -0.6713867
+        outSlope: -0.67341393
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.75
+        value: 0.5331678
+        inSlope: -0.56111866
+        outSlope: -0.5607594
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8333335
+        value: 0.5101009
+        inSlope: 0.1223085
+        outSlope: 0.12159394
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.875
+        value: 0.52477074
+        inSlope: 0.7381467
+        outSlope: 0.7381383
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.916667
+        value: 0.565547
+        inSlope: 1.1529834
+        outSlope: 1.1529967
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583335
+        value: 0.6168292
+        inSlope: 0.9970703
+        outSlope: 0.9956398
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 0.64624566
+        inSlope: 0.1859672
+        outSlope: 0.18167357
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.041667
+        value: 0.63176364
+        inSlope: -0.7066673
+        outSlope: -0.7095364
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.0833335
+        value: 0.5901173
+        inSlope: -0.8268388
+        outSlope: -0.82254726
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.125
+        value: 0.56656724
+        inSlope: -0.29039493
+        outSlope: -0.2918221
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.166667
+        value: 0.56656724
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.291667
+        value: 0.56656724
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.3333335
+        value: 0.5665672
+        inSlope: 0.31471372
+        outSlope: 0.31614423
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.375
+        value: 0.59244627
+        inSlope: 1.0385553
+        outSlope: 1.0442654
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.416667
+        value: 0.6513118
+        inSlope: 1.4233481
+        outSlope: 1.4190727
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.4583335
+        value: 0.7105115
+        inSlope: 0.9899177
+        outSlope: 0.9899177
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: 0.736727
+        inSlope: 0.3047001
+        outSlope: 0.30183563
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.541667
+        value: 0.736727
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:Spine/Ice_Golem_Walk:Upper_Spine/Ice_Golem_Walk:LeftShoulder/Ice_Golem_Walk:LeftArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.0000004553629
+        inSlope: 0
+        outSlope: 0.00000003069542
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.20833349
+        value: 0.0000004553629
+        inSlope: 0.00000030831848
+        outSlope: 0.00000056866156
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3333335
+        value: 0.00010280623
+        inSlope: 0.0022165477
+        outSlope: 0.002219982
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4583335
+        value: 0.0004992948
+        inSlope: 0.003437046
+        outSlope: 0.003435885
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.625
+        value: 0.0010014533
+        inSlope: 0.0018314476
+        outSlope: 0.0018288494
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.916667
+        value: 0.001368622
+        inSlope: 0.00051209383
+        outSlope: 0.00051409204
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583335
+        value: 0.0013860181
+        inSlope: 0.00027939785
+        outSlope: 0.00028219182
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 0.0013920458
+        inSlope: -0.0018272619
+        outSlope: -0.0018300349
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.041667
+        value: 0.001231038
+        inSlope: -0.006822817
+        outSlope: -0.006845247
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.0833335
+        value: 0.00083915034
+        inSlope: -0.010367056
+        outSlope: -0.010346102
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.125
+        value: 0.00040996
+        inSlope: -0.0077539887
+        outSlope: -0.0077692666
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.166667
+        value: 0.00020766117
+        inSlope: -0.001590454
+        outSlope: -0.0015765023
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.2083335
+        value: 0.00027870372
+        inSlope: 0.0024202839
+        outSlope: 0.0024265703
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.25
+        value: 0.00040974378
+        inSlope: 0.0023874545
+        outSlope: 0.0023818528
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.3333335
+        value: 0.0004796768
+        inSlope: -0.00088463834
+        outSlope: -0.0008877866
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.375
+        value: 0.0004058038
+        inSlope: -0.0028645264
+        outSlope: -0.0028770664
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.416667
+        value: 0.00024161812
+        inSlope: -0.003980326
+        outSlope: -0.0039684973
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.4583335
+        value: 0.00007596538
+        inSlope: -0.0028943869
+        outSlope: -0.0028937357
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5833335
+        value: 0.0000004553629
+        inSlope: 0.0000014715624
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:Spine/Ice_Golem_Walk:Upper_Spine/Ice_Golem_Walk:LeftShoulder/Ice_Golem_Walk:LeftArm/Ice_Golem_Walk:LeftForeArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.00021375426
+        inSlope: 0
+        outSlope: -0.00000006984914
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.20833349
+        value: 0.00021375426
+        inSlope: -0.00000041909485
+        outSlope: 0.00010279473
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3333335
+        value: 0.04825881
+        inSlope: 1.0480881
+        outSlope: 1.049757
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4583335
+        value: 0.2343766
+        inSlope: 1.683116
+        outSlope: 1.6838924
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.625
+        value: 0.4700972
+        inSlope: 0.91946214
+        outSlope: 0.9184895
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.916667
+        value: 0.6424518
+        inSlope: 0.25442642
+        outSlope: 0.25320148
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583335
+        value: 0.6506179
+        inSlope: 0.13160756
+        outSlope: 0.13303807
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 0.65344745
+        inSlope: -0.83542186
+        outSlope: -0.83970386
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.041667
+        value: 0.57786787
+        inSlope: -2.992607
+        outSlope: -3.0040855
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.0833335
+        value: 0.3939099
+        inSlope: -4.6255765
+        outSlope: -4.6119866
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.125
+        value: 0.1924415
+        inSlope: -3.5809414
+        outSlope: -3.5884106
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.166667
+        value: 0.097479306
+        inSlope: -0.74654245
+        outSlope: -0.73975605
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.2083335
+        value: 0.13082764
+        inSlope: 1.1397643
+        outSlope: 1.1433407
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.25
+        value: 0.19233997
+        inSlope: 1.1308236
+        outSlope: 1.1279562
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.3333335
+        value: 0.22516757
+        inSlope: -0.41341704
+        outSlope: -0.41413465
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.375
+        value: 0.19049047
+        inSlope: -1.3332418
+        outSlope: -1.3385909
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.416667
+        value: 0.11341923
+        inSlope: -1.860366
+        outSlope: -1.8553804
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.4583335
+        value: 0.035659313
+        inSlope: -1.358097
+        outSlope: -1.357466
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5833335
+        value: 0.00021375426
+        inSlope: 0.00043935142
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:Spine/Ice_Golem_Walk:Upper_Spine/Ice_Golem_Walk:LeftShoulder/Ice_Golem_Walk:LeftArm/Ice_Golem_Walk:LeftForeArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.0021303054
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.20833349
+        value: -0.0021303054
+        inSlope: 0.0000011175863
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3333335
+        value: -0.0021278237
+        inSlope: 0.0003017485
+        outSlope: 0.0003054738
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4583335
+        value: -0.0020709676
+        inSlope: 0.0013746321
+        outSlope: 0.0013760304
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.625
+        value: -0.001880238
+        inSlope: 0.0012635731
+        outSlope: 0.0012636703
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.916667
+        value: -0.0016325063
+        inSlope: 0.0004885447
+        outSlope: 0.00048615225
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583335
+        value: -0.0016177625
+        inSlope: 0.00024028214
+        outSlope: 0.00023748816
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: -0.0016125789
+        inSlope: -0.0014808086
+        outSlope: -0.0014919674
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.041667
+        value: -0.0017386053
+        inSlope: -0.0038556461
+        outSlope: -0.00386966
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.0833335
+        value: -0.0019580678
+        inSlope: -0.002833094
+        outSlope: -0.002821918
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.125
+        value: -0.002090487
+        inSlope: -0.0007264344
+        outSlope: -0.0007208382
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.166667
+        value: -0.0021201598
+        inSlope: -0.00011734575
+        outSlope: -0.00012293505
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.2083335
+        value: -0.0021119958
+        inSlope: 0.00039674493
+        outSlope: 0.0004023329
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.25
+        value: -0.0020905293
+        inSlope: 0.00054203183
+        outSlope: 0.0005392347
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.3333335
+        value: -0.0020755995
+        inSlope: -0.00018440152
+        outSlope: -0.00018440257
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.375
+        value: -0.0020912974
+        inSlope: -0.0004414486
+        outSlope: -0.00044703143
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.416667
+        value: -0.002116559
+        inSlope: -0.0002458673
+        outSlope: -0.00025145806
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.4583335
+        value: -0.0021289506
+        inSlope: 0
+        outSlope: -0.0000018626451
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5833335
+        value: -0.0021303054
+        inSlope: 0.0000018626451
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:Spine/Ice_Golem_Walk:Upper_Spine/Ice_Golem_Walk:LeftShoulder/Ice_Golem_Walk:LeftArm/Ice_Golem_Walk:LeftForeArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.99999774
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.20833349
+        value: 0.99999774
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3333335
+        value: 0.99883264
+        inSlope: -0.05054474
+        outSlope: -0.051021576
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4583335
+        value: 0.97214353
+        inSlope: -0.40578842
+        outSlope: -0.40590802
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.625
+        value: 0.88261205
+        inSlope: -0.48959303
+        outSlope: -0.48943874
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.916667
+        value: 0.76632315
+        inSlope: -0.21335034
+        outSlope: -0.21314703
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583335
+        value: 0.7594023
+        inSlope: -0.11158032
+        outSlope: -0.11444136
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 0.75696886
+        inSlope: 0.7209805
+        outSlope: 0.72383326
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.041667
+        value: 0.81612754
+        inSlope: 2.1200018
+        outSlope: 2.1271787
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.0833335
+        value: 0.9191466
+        inSlope: 1.9826964
+        outSlope: 1.9755439
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.125
+        value: 0.9813062
+        inSlope: 0.7038143
+        outSlope: 0.70237577
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.166667
+        value: 0.99523526
+        inSlope: 0.07295553
+        outSlope: 0.07295636
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.2083335
+        value: 0.9914028
+        inSlope: -0.15020427
+        outSlope: -0.1516348
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.25
+        value: 0.98132604
+        inSlope: -0.22173013
+        outSlope: -0.2210136
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.3333335
+        value: 0.9743177
+        inSlope: 0.09584408
+        outSlope: 0.095844634
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.375
+        value: 0.9816868
+        inSlope: 0.25892356
+        outSlope: 0.2589206
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.416667
+        value: 0.99354494
+        inSlope: 0.21314459
+        outSlope: 0.2117165
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.4583335
+        value: 0.99936175
+        inSlope: 0.048637576
+        outSlope: 0.048160553
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5833335
+        value: 0.99999774
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:Spine/Ice_Golem_Walk:Upper_Spine/Ice_Golem_Walk:LeftShoulder/Ice_Golem_Walk:LeftArm/Ice_Golem_Walk:LeftForeArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.16666698
+        value: 0
+        inSlope: 0
+        outSlope: 0.00019637075
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.29166698
+        value: -0.01040258
+        inSlope: -0.4458502
+        outSlope: -0.4470274
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.41666698
+        value: -0.1132583
+        inSlope: -0.89770555
+        outSlope: -0.8969903
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.541667
+        value: -0.18512362
+        inSlope: -0.120162964
+        outSlope: -0.11920929
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.666667
+        value: -0.1851235
+        inSlope: 0.00011920929
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.291667
+        value: -0.1851235
+        inSlope: 0
+        outSlope: -0.00035762924
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.3333335
+        value: -0.18512346
+        inSlope: 0.33831725
+        outSlope: 0.33795962
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.375
+        value: -0.15683065
+        inSlope: 1.0932726
+        outSlope: 1.0986245
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.416667
+        value: -0.093539186
+        inSlope: 1.5358212
+        outSlope: 1.5304743
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.4583335
+        value: -0.029323263
+        inSlope: 1.1230452
+        outSlope: 1.1243863
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: 0
+        inSlope: 0.35254616
+        outSlope: 0.35057995
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.541667
+        value: 0
+        inSlope: -0.0004017065
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:Spine/Ice_Golem_Walk:Upper_Spine/Ice_Golem_Walk:Neck/Ice_Golem_Walk:Head
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.16666698
+        value: 0
+        inSlope: 0
+        outSlope: -0.00023107193
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.29166698
+        value: 0.012207913
+        inSlope: 0.52363425
+        outSlope: 0.52500516
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.41666698
+        value: 0.13291387
+        inSlope: 1.0671616
+        outSlope: 1.0664463
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.541667
+        value: 0.21725118
+        inSlope: 0.14150143
+        outSlope: 0.14019012
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.666667
+        value: 0.21725103
+        inSlope: -0.00023841858
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.291667
+        value: 0.21725103
+        inSlope: 0
+        outSlope: 0.0007152585
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.3333335
+        value: 0.21725099
+        inSlope: -0.3951803
+        outSlope: -0.3951803
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.375
+        value: 0.18404803
+        inSlope: -1.2745906
+        outSlope: -1.2810133
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.416667
+        value: 0.10977259
+        inSlope: -1.7945629
+        outSlope: -1.7888614
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.4583335
+        value: 0.034412213
+        inSlope: -1.316612
+        outSlope: -1.3184896
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: 0
+        inSlope: -0.41375926
+        outSlope: -0.41142684
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.541667
+        value: 0
+        inSlope: 0.0004515327
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:Spine/Ice_Golem_Walk:Upper_Spine/Ice_Golem_Walk:Neck/Ice_Golem_Walk:Head
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.16666698
+        value: 0.6485839
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.29166698
+        value: 0.64850044
+        inSlope: -0.009059906
+        outSlope: -0.009059906
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.41666698
+        value: 0.6386185
+        inSlope: -0.17213821
+        outSlope: -0.17356873
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.541667
+        value: 0.621603
+        inSlope: -0.035762787
+        outSlope: -0.035762787
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.666667
+        value: 0.621603
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.291667
+        value: 0.621603
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.3333335
+        value: 0.621603
+        inSlope: 0.09870567
+        outSlope: 0.10013618
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.375
+        value: 0.6293371
+        inSlope: 0.26607615
+        outSlope: 0.2660731
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.416667
+        value: 0.6418033
+        inSlope: 0.21171409
+        outSlope: 0.2117165
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.4583335
+        value: 0.6479206
+        inSlope: 0.045776542
+        outSlope: 0.045776542
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: 0.6485839
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.541667
+        value: 0.6485839
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:Spine/Ice_Golem_Walk:Upper_Spine/Ice_Golem_Walk:Neck/Ice_Golem_Walk:Head
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.16666698
+        value: 0.7611432
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.29166698
+        value: 0.7610453
+        inSlope: -0.00667572
+        outSlope: -0.006198883
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.41666698
+        value: 0.7494485
+        inSlope: -0.17690659
+        outSlope: -0.17881393
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.541667
+        value: 0.7294798
+        inSlope: -0.042438507
+        outSlope: -0.041007996
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.666667
+        value: 0.7294799
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.291667
+        value: 0.7294799
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.3333335
+        value: 0.7294799
+        inSlope: 0.11730239
+        outSlope: 0.11730239
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.375
+        value: 0.73855627
+        inSlope: 0.32329682
+        outSlope: 0.32615414
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.416667
+        value: 0.75318587
+        inSlope: 0.2732256
+        outSlope: 0.26893717
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.4583335
+        value: 0.76036483
+        inSlope: 0.06294274
+        outSlope: 0.06437326
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: 0.7611432
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.541667
+        value: 0.7611432
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:Spine/Ice_Golem_Walk:Upper_Spine/Ice_Golem_Walk:Neck/Ice_Golem_Walk:Head
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.20833349
+        value: 0.0671651
+        inSlope: 0
+        outSlope: -0.00011920929
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3333335
+        value: 0.040501438
+        inSlope: -0.55998564
+        outSlope: -0.5608728
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5
+        value: -0.076992616
+        inSlope: -0.5579894
+        outSlope: -0.5567904
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7083335
+        value: -0.10351424
+        inSlope: 0.0001788138
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.291667
+        value: -0.10351424
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.375
+        value: -0.07699261
+        inSlope: 1.0193328
+        outSlope: 1.0222715
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.416667
+        value: -0.018308805
+        inSlope: 1.41177
+        outSlope: 1.4078969
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.4583335
+        value: 0.04050169
+        inSlope: 1.0227302
+        outSlope: 1.0225456
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.541667
+        value: 0.0671651
+        inSlope: 0.0000894068
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:Spine/Ice_Golem_Walk:Upper_Spine/Ice_Golem_Walk:RightShoulder/Ice_Golem_Walk:RightArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.20833349
+        value: -0.06754436
+        inSlope: 0
+        outSlope: 0.000059604645
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3333335
+        value: -0.040730145
+        inSlope: 0.5631447
+        outSlope: 0.56400204
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5
+        value: 0.07742739
+        inSlope: 0.5612975
+        outSlope: 0.5600448
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7083335
+        value: 0.10409877
+        inSlope: -0.0001788138
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.291667
+        value: 0.10409877
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.375
+        value: 0.07742739
+        inSlope: -1.024876
+        outSlope: -1.0279934
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.416667
+        value: 0.018412191
+        inSlope: -1.4197271
+        outSlope: -1.4158094
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.4583335
+        value: -0.040730402
+        inSlope: -1.0286311
+        outSlope: -1.028357
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.541667
+        value: -0.06754436
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:Spine/Ice_Golem_Walk:Upper_Spine/Ice_Golem_Walk:RightShoulder/Ice_Golem_Walk:RightArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.20833349
+        value: 0.70190704
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3333335
+        value: 0.70394903
+        inSlope: 0.03194809
+        outSlope: 0.032186538
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5
+        value: 0.70089716
+        inSlope: -0.061154425
+        outSlope: -0.061225843
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7083335
+        value: 0.69747365
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.291667
+        value: 0.69747365
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.375
+        value: 0.70089716
+        inSlope: 0.112295575
+        outSlope: 0.11014854
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.416667
+        value: 0.7048754
+        inSlope: 0.034332015
+        outSlope: 0.03719344
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.4583335
+        value: 0.70394903
+        inSlope: -0.058651194
+        outSlope: -0.059366114
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.541667
+        value: 0.70190704
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:Spine/Ice_Golem_Walk:Upper_Spine/Ice_Golem_Walk:RightShoulder/Ice_Golem_Walk:RightArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.20833349
+        value: 0.7058705
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3333335
+        value: 0.707924
+        inSlope: 0.032901764
+        outSlope: 0.032186538
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5
+        value: 0.70485485
+        inSlope: -0.061512053
+        outSlope: -0.061225843
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7083335
+        value: 0.701412
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.291667
+        value: 0.701412
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.375
+        value: 0.70485485
+        inSlope: 0.11301084
+        outSlope: 0.111579046
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.416667
+        value: 0.7088557
+        inSlope: 0.037193015
+        outSlope: 0.03719344
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.4583335
+        value: 0.707924
+        inSlope: -0.060081713
+        outSlope: -0.059366114
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.541667
+        value: 0.7058705
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:Spine/Ice_Golem_Walk:Upper_Spine/Ice_Golem_Walk:RightShoulder/Ice_Golem_Walk:RightArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 1.125
+        value: -0.000007877555
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:Spine/Ice_Golem_Walk:Upper_Spine/Ice_Golem_Walk:RightShoulder/Ice_Golem_Walk:RightArm/Ice_Golem_Walk:RightForeArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 1.125
+        value: -0.0004686533
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:Spine/Ice_Golem_Walk:Upper_Spine/Ice_Golem_Walk:RightShoulder/Ice_Golem_Walk:RightArm/Ice_Golem_Walk:RightForeArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 1.125
+        value: -0.016806547
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:Spine/Ice_Golem_Walk:Upper_Spine/Ice_Golem_Walk:RightShoulder/Ice_Golem_Walk:RightArm/Ice_Golem_Walk:RightForeArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 1.125
+        value: 0.9998586
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:Spine/Ice_Golem_Walk:Upper_Spine/Ice_Golem_Walk:RightShoulder/Ice_Golem_Walk:RightArm/Ice_Golem_Walk:RightForeArm
+    classID: 4
+    script: {fileID: 0}
+  m_EulerEditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.16666698
+        value: -4.3864623e-16
+        inSlope: 6.445413e-16
+        outSlope: 6.445413e-16
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Ice_Golem_Walk:Hips
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.16666698
+        value: -180
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Ice_Golem_Walk:Hips
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.16666698
+        value: 47.533554
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Ice_Golem_Walk:Hips
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 1.125
+        value: 4.0625123e-15
+        inSlope: -5.8500187e-15
+        outSlope: -5.8500187e-15
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:LeftUpLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 1.125
+        value: 180
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:LeftUpLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 1.125
+        value: 125.37861
+        inSlope: -0.0000109863295
+        outSlope: -0.0000109863295
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:LeftUpLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.041666985
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:LeftUpLeg/Ice_Golem_Walk:LeftLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.041666985
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:LeftUpLeg/Ice_Golem_Walk:LeftLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.041666985
+        value: 6.9879923
+        inSlope: -0.000001401317
+        outSlope: -0.000001401317
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:LeftUpLeg/Ice_Golem_Walk:LeftLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 1.375
+        value: 0.0261462
+        inSlope: 1.003933
+        outSlope: 1.003933
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:RightUpLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 1.375
+        value: -0.04339839
+        inSlope: -1.6665199
+        outSlope: -1.6665199
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:RightUpLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 1.375
+        value: 31.067667
+        inSlope: -0.009469321
+        outSlope: -0.009469321
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:RightUpLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 1
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:RightUpLeg/Ice_Golem_Walk:RightLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:RightUpLeg/Ice_Golem_Walk:RightLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 1
+        value: 5.1568484
+        inSlope: -0.000004904611
+        outSlope: -0.000004904611
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:RightUpLeg/Ice_Golem_Walk:RightLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.16666698
+        value: 9.907339e-15
+        inSlope: -1.455772e-14
+        outSlope: -1.455772e-14
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.29166698
+        value: 0.27065104
+        inSlope: 9.064312
+        outSlope: 9.064312
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.41666698
+        value: 0.7929556
+        inSlope: -12.589283
+        outSlope: -12.589283
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.541667
+        value: -2.7896447
+        inSlope: -50.345524
+        outSlope: -50.345524
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.75
+        value: -16.458572
+        inSlope: -48.74004
+        outSlope: -48.74004
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.875
+        value: -16.9151
+        inSlope: 79.740234
+        outSlope: 79.740234
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583335
+        value: -5.4341693
+        inSlope: 168.25732
+        outSlope: 168.25732
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.041667
+        value: 8.575192
+        inSlope: 137.24435
+        outSlope: 137.24435
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.125
+        value: 15.255152
+        inSlope: 22.09874
+        outSlope: 22.09874
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.2083335
+        value: 15.255152
+        inSlope: 0.00020599326
+        outSlope: 0.00020599326
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.291667
+        value: 15.255152
+        inSlope: 0.00020599326
+        outSlope: 0.00020599326
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.375
+        value: 12.69911
+        inSlope: -95.7412
+        outSlope: -95.7412
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.4583335
+        value: 2.192897
+        inSlope: -85.75896
+        outSlope: -85.75896
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5833335
+        value: 9.907339e-15
+        inSlope: -2.3777613e-13
+        outSlope: -2.3777613e-13
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:Spine
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.16666698
+        value: -180
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.29166698
+        value: 178.36389
+        inSlope: -69.61597
+        outSlope: -69.61597
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.41666698
+        value: 162.90767
+        inSlope: -125.68469
+        outSlope: -125.68469
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.541667
+        value: 154.85051
+        inSlope: -5.371216
+        outSlope: -5.371216
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.75
+        value: 160.2001
+        inSlope: 30.408884
+        outSlope: 30.408884
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.875
+        value: 163.53102
+        inSlope: 76.32971
+        outSlope: 76.32971
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583335
+        value: 174.05934
+        inSlope: 146.64029
+        outSlope: 146.64029
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.041667
+        value: -173.63904
+        inSlope: 125.878365
+        outSlope: 125.878365
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.125
+        value: -167.3997
+        inSlope: 21.56954
+        outSlope: 21.56954
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.2083335
+        value: -167.3997
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.291667
+        value: -167.3997
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.375
+        value: -169.19844
+        inSlope: -71.35593
+        outSlope: -71.35593
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.4583335
+        value: -177.84135
+        inSlope: -81.11191
+        outSlope: -81.11191
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5833335
+        value: -180
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:Spine
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.16666698
+        value: -41.767746
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.29166698
+        value: -42.305447
+        inSlope: -21.705414
+        outSlope: -21.705414
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.41666698
+        value: -46.087624
+        inSlope: -18.02179
+        outSlope: -18.02179
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.541667
+        value: -45.80048
+        inSlope: 11.179779
+        outSlope: 11.179779
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.75
+        value: -45.69011
+        inSlope: -8.508485
+        outSlope: -8.508485
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.875
+        value: -46.6864
+        inSlope: -20.263916
+        outSlope: -20.263916
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583335
+        value: -48.75618
+        inSlope: -8.010666
+        outSlope: -8.010666
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.041667
+        value: -48.41593
+        inSlope: 22.866076
+        outSlope: 22.866076
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.125
+        value: -47.12945
+        inSlope: 5.7616644
+        outSlope: 5.7616644
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.2083335
+        value: -47.12945
+        inSlope: -0.00013732884
+        outSlope: -0.00013732884
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.291667
+        value: -47.12945
+        inSlope: -0.00013732884
+        outSlope: -0.00013732884
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.375
+        value: -46.49468
+        inSlope: 27.336424
+        outSlope: 27.336424
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.4583335
+        value: -42.808243
+        inSlope: 40.231857
+        outSlope: 40.231857
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5833335
+        value: -41.767746
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:Spine
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.20833349
+        value: -13.88925
+        inSlope: -0.0000049046116
+        outSlope: -0.0000049046116
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.29166698
+        value: -16.07147
+        inSlope: -96.719124
+        outSlope: -96.719124
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.375
+        value: -30.492449
+        inSlope: -221.90373
+        outSlope: -221.90373
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4583335
+        value: -50.544823
+        inSlope: -223.69495
+        outSlope: -223.69495
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5833335
+        value: -71.328804
+        inSlope: -122.92676
+        outSlope: -122.92676
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.75
+        value: -86.88454
+        inSlope: -39.81504
+        outSlope: -39.81504
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8333335
+        value: -88.92007
+        inSlope: -4.485709
+        outSlope: -4.485709
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.875
+        value: -88.47735
+        inSlope: 61.49071
+        outSlope: 61.49071
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.916667
+        value: -83.833244
+        inSlope: 184.58429
+        outSlope: 184.58429
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583335
+        value: -73.27385
+        inSlope: 293.5646
+        outSlope: 293.5646
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: -59.331184
+        inSlope: 307.29865
+        outSlope: 307.29865
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.041667
+        value: -47.678078
+        inSlope: 207.16815
+        outSlope: 207.16815
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.0833335
+        value: -41.941845
+        inSlope: 80.24307
+        outSlope: 80.24307
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.125
+        value: -40.68486
+        inSlope: 14.321832
+        outSlope: 14.321832
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.166667
+        value: -40.68486
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.291667
+        value: -40.68486
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.3333335
+        value: -40.684845
+        inSlope: 53.346516
+        outSlope: 53.346516
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.375
+        value: -36.222607
+        inSlope: 169.98962
+        outSlope: 169.98962
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.416667
+        value: -26.530445
+        inSlope: 224.46243
+        outSlope: 224.46243
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.4583335
+        value: -17.549776
+        inSlope: 149.26425
+        outSlope: 149.26425
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: -13.88925
+        inSlope: 43.07742
+        outSlope: 43.07742
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.541667
+        value: -13.88925
+        inSlope: -0.00013732805
+        outSlope: -0.00013732805
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:Spine/Ice_Golem_Walk:Upper_Spine/Ice_Golem_Walk:LeftShoulder/Ice_Golem_Walk:LeftArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.20833349
+        value: 1.4501507
+        inSlope: -0.000003065382
+        outSlope: -0.000003065382
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.29166698
+        value: 1.1108297
+        inSlope: -11.269938
+        outSlope: -11.269938
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.375
+        value: 0.64365995
+        inSlope: 25.243988
+        outSlope: 25.243988
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4583335
+        value: 6.0364904
+        inSlope: 133.80914
+        outSlope: 133.80914
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5833335
+        value: 24.852674
+        inSlope: 219.29924
+        outSlope: 219.29924
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.75
+        value: 62.649887
+        inSlope: 1009.6206
+        outSlope: 1009.6206
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8333335
+        value: 75.43996
+        inSlope: -735.67114
+        outSlope: -735.67114
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.875
+        value: 28.364347
+        inSlope: -1174.6833
+        outSlope: -1174.6833
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.916667
+        value: -4.3143406
+        inSlope: -199.22276
+        outSlope: -199.22276
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583335
+        value: -9.815613
+        inSlope: -26.249733
+        outSlope: -26.249733
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: -8.743732
+        inSlope: 75.85567
+        outSlope: 75.85567
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.041667
+        value: -3.6242263
+        inSlope: 135.24757
+        outSlope: 135.24757
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.0833335
+        value: 2.3366163
+        inSlope: 106.00696
+        outSlope: 106.00696
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.125
+        value: 5.039703
+        inSlope: 32.66581
+        outSlope: 32.66581
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.166667
+        value: 5.039703
+        inSlope: 0.000034332013
+        outSlope: 0.000034332013
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.291667
+        value: 5.039703
+        inSlope: 0.000011444092
+        outSlope: 0.000011444092
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.3333335
+        value: 5.039698
+        inSlope: 12.885193
+        outSlope: 12.885193
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.375
+        value: 5.9664726
+        inSlope: 13.556356
+        outSlope: 13.556356
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.416667
+        value: 5.9276767
+        inSlope: -36.25814
+        outSlope: -36.25814
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.4583335
+        value: 3.3737369
+        inSlope: -60.473614
+        outSlope: -60.473614
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: 1.4501507
+        inSlope: -24.457943
+        outSlope: -24.457943
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.541667
+        value: 1.4501507
+        inSlope: -0.000085830034
+        outSlope: -0.000085830034
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:Spine/Ice_Golem_Walk:Upper_Spine/Ice_Golem_Walk:LeftShoulder/Ice_Golem_Walk:LeftArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.20833349
+        value: 83.97981
+        inSlope: -0.000039236893
+        outSlope: -0.000039236893
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.29166698
+        value: 82.93275
+        inSlope: -44.3487
+        outSlope: -44.3487
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.375
+        value: 76.7
+        inSlope: -93.827995
+        outSlope: -93.827995
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4583335
+        value: 67.94287
+        inSlope: -137.97374
+        outSlope: -137.97374
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5833335
+        value: 51.98005
+        inSlope: -183.44916
+        outSlope: -183.44916
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.75
+        value: 23.804214
+        inSlope: -956.49835
+        outSlope: -956.49835
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8333335
+        value: 13.545243
+        inSlope: 712.0874
+        outSlope: 712.0874
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.875
+        value: 57.970764
+        inSlope: 1074.2495
+        outSlope: 1074.2495
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.916667
+        value: 84.92268
+        inSlope: 84.88302
+        outSlope: 84.88302
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583335
+        value: 86.60707
+        inSlope: 16.236755
+        outSlope: 16.236755
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 88.635925
+        inSlope: 87.65585
+        outSlope: 87.65585
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.041667
+        value: 94.18823
+        inSlope: 145.7523
+        outSlope: 145.7523
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.0833335
+        value: 100.69528
+        inSlope: 115.40303
+        outSlope: 115.40303
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.125
+        value: 103.70763
+        inSlope: 36.273697
+        outSlope: 36.273697
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.166667
+        value: 103.70763
+        inSlope: 0.0010986244
+        outSlope: 0.0010986244
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.291667
+        value: 103.70763
+        inSlope: 0.00036621094
+        outSlope: 0.00036621094
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.3333335
+        value: 103.707634
+        inSlope: -36.08528
+        outSlope: -36.08528
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.375
+        value: 100.81689
+        inSlope: -111.74402
+        outSlope: -111.74402
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.416667
+        value: 94.46528
+        inSlope: -155.59653
+        outSlope: -155.59653
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.4583335
+        value: 87.49709
+        inSlope: -125.88128
+        outSlope: -125.88128
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: 83.97981
+        inSlope: -42.667767
+        outSlope: -42.667767
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.541667
+        value: 83.97981
+        inSlope: -0.0010986244
+        outSlope: -0.0010986244
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:Spine/Ice_Golem_Walk:Upper_Spine/Ice_Golem_Walk:LeftShoulder/Ice_Golem_Walk:LeftArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.000104361236
+        inSlope: 0.0000035284143
+        outSlope: 0.0000035284143
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.20833349
+        value: 0.000104361236
+        inSlope: 0.00003528412
+        outSlope: 0.00003528412
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3333335
+        value: 0.023533946
+        inSlope: 0.50745094
+        outSlope: 0.50745094
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4583335
+        value: 0.111242406
+        inSlope: 0.72202796
+        outSlope: 0.72202796
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.625
+        value: 0.20257415
+        inSlope: 0.2587559
+        outSlope: 0.2587559
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.916667
+        value: 0.24036947
+        inSlope: 0.023094254
+        outSlope: 0.023094254
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583335
+        value: 0.24122632
+        inSlope: 0.013175061
+        outSlope: 0.013175061
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 0.2414991
+        inSlope: -0.08666572
+        outSlope: -0.08666572
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.041667
+        value: 0.23025724
+        inSlope: -0.6812995
+        outSlope: -0.6812995
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.0833335
+        value: 0.1767697
+        inSlope: -1.8092127
+        outSlope: -1.8092127
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.125
+        value: 0.09219956
+        inSlope: -1.6824418
+        outSlope: -1.6824418
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.166667
+        value: 0.047365673
+        inSlope: -0.35832375
+        outSlope: -0.35832375
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.2083335
+        value: 0.063325025
+        inSlope: 0.5404538
+        outSlope: 0.5404538
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.25
+        value: 0.092152804
+        inSlope: 0.51600105
+        outSlope: 0.51600105
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.3333335
+        value: 0.10711053
+        inSlope: -0.18764377
+        outSlope: -0.18764377
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.375
+        value: 0.09130021
+        inSlope: -0.62122506
+        outSlope: -0.62122506
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.416667
+        value: 0.055017356
+        inSlope: -0.89386
+        outSlope: -0.89386
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.4583335
+        value: 0.017398871
+        inSlope: -0.6627554
+        outSlope: -0.6627554
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5833335
+        value: 0.000104361236
+        inSlope: 0.00005880691
+        outSlope: 0.00005880691
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:Spine/Ice_Golem_Walk:Upper_Spine/Ice_Golem_Walk:LeftShoulder/Ice_Golem_Walk:LeftArm/Ice_Golem_Walk:LeftForeArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.024494264
+        inSlope: -0.0000056272743
+        outSlope: -0.0000056272743
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.20833349
+        value: 0.024494264
+        inSlope: -0.000056272704
+        outSlope: -0.000056272704
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3333335
+        value: 5.5321627
+        inSlope: 120.36884
+        outSlope: 120.36884
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4583335
+        value: 27.109606
+        inSlope: 198.46138
+        outSlope: 198.46138
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.625
+        value: 56.081104
+        inSlope: 119.31294
+        outSlope: 119.31294
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.916667
+        value: 79.949905
+        inSlope: 37.996803
+        outSlope: 37.996803
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583335
+        value: 81.176544
+        inSlope: 19.852371
+        outSlope: 19.852371
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 81.60421
+        inSlope: -126.784355
+        outSlope: -126.784355
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.041667
+        value: 70.601456
+        inSlope: -421.01376
+        outSlope: -421.01376
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.0833335
+        value: 46.395855
+        inSlope: -575.6866
+        outSlope: -575.6866
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.125
+        value: 22.190468
+        inSlope: -418.54608
+        outSlope: -418.54608
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.166667
+        value: 11.187998
+        inSlope: -85.61209
+        outSlope: -85.61209
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.2083335
+        value: 15.034746
+        inSlope: 131.8429
+        outSlope: 131.8429
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.25
+        value: 22.178616
+        inSlope: 131.78178
+        outSlope: 131.78178
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.3333335
+        value: 26.025316
+        inSlope: -48.74961
+        outSlope: -48.74961
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.375
+        value: 21.962685
+        inSlope: -155.9301
+        outSlope: -155.9301
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.416667
+        value: 13.024828
+        inSlope: -214.24069
+        outSlope: -214.24069
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.4583335
+        value: 4.087095
+        inSlope: -155.80414
+        outSlope: -155.80414
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5833335
+        value: 0.024494264
+        inSlope: -0.00009378791
+        outSlope: -0.00009378791
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:Spine/Ice_Golem_Walk:Upper_Spine/Ice_Golem_Walk:LeftShoulder/Ice_Golem_Walk:LeftArm/Ice_Golem_Walk:LeftForeArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.24411516
+        inSlope: 0.0000072741504
+        outSlope: 0.0000072741504
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.20833349
+        value: -0.24411516
+        inSlope: 0.00007274145
+        outSlope: 0.00007274145
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3333335
+        value: -0.24297816
+        inSlope: 0.07171011
+        outSlope: 0.07171011
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4583335
+        value: -0.2172957
+        inSlope: 0.43824148
+        outSlope: 0.43824148
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.625
+        value: -0.13622056
+        inSlope: 0.43735257
+        outSlope: 0.43735257
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.916667
+        value: -0.042600196
+        inSlope: 0.16021916
+        outSlope: 0.16021916
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.9583335
+        value: -0.037444763
+        inSlope: 0.08347442
+        outSlope: 0.08347442
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: -0.035643242
+        inSlope: -0.53293175
+        outSlope: -0.53293175
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.041667
+        value: -0.0810795
+        inSlope: -1.6593338
+        outSlope: -1.6593338
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.0833335
+        value: -0.16835915
+        inSlope: -1.652806
+        outSlope: -1.652806
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.125
+        value: -0.22603434
+        inSlope: -0.5884446
+        outSlope: -0.5884446
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.166667
+        value: -0.23947595
+        inSlope: -0.06669101
+        outSlope: -0.06669101
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.2083335
+        value: -0.23575877
+        inSlope: 0.15456343
+        outSlope: 0.15456343
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.25
+        value: -0.22605342
+        inSlope: 0.21932828
+        outSlope: 0.21932828
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.3333335
+        value: -0.21936187
+        inSlope: -0.08893437
+        outSlope: -0.08893437
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.375
+        value: -0.2263991
+        inSlope: -0.23698588
+        outSlope: -0.23698588
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.416667
+        value: -0.23783469
+        inSlope: -0.18266347
+        outSlope: -0.18266347
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.4583335
+        value: -0.24349436
+        inSlope: -0.035544768
+        outSlope: -0.035544768
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5833335
+        value: -0.24411516
+        inSlope: 0.00012123585
+        outSlope: 0.00012123585
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:Spine/Ice_Golem_Walk:Upper_Spine/Ice_Golem_Walk:LeftShoulder/Ice_Golem_Walk:LeftArm/Ice_Golem_Walk:LeftForeArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.16666698
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.29166698
+        value: -1.8147081
+        inSlope: -77.90819
+        outSlope: -77.90819
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.41666698
+        value: -19.847935
+        inSlope: -159.69498
+        outSlope: -159.69498
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.541667
+        value: -32.695606
+        inSlope: -21.652863
+        outSlope: -21.652863
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.666667
+        value: -32.695587
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.291667
+        value: -32.695587
+        inSlope: 0.00007324219
+        outSlope: 0.00007324219
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.3333335
+        value: -32.69558
+        inSlope: 61.07488
+        outSlope: 61.07488
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.375
+        value: -27.601091
+        inSlope: 195.72012
+        outSlope: 195.72012
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.416667
+        value: -16.368238
+        inSlope: 269.39685
+        outSlope: 269.39685
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.4583335
+        value: -5.1167526
+        inSlope: 196.0688
+        outSlope: 196.0688
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: -0
+        inSlope: 61.37096
+        outSlope: 61.37096
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.541667
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:Spine/Ice_Golem_Walk:Upper_Spine/Ice_Golem_Walk:Neck/Ice_Golem_Walk:Head
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.16666698
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.29166698
+        value: 0.29174837
+        inSlope: 12.570182
+        outSlope: 12.570182
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.41666698
+        value: 3.3257446
+        inSlope: 30.495117
+        outSlope: 30.495117
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.541667
+        value: 5.9211245
+        inSlope: 4.99189
+        outSlope: 4.99189
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.666667
+        value: 5.9211197
+        inSlope: -0.00018310547
+        outSlope: -0.00018310547
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.291667
+        value: 5.9211197
+        inSlope: -0.000036621095
+        outSlope: -0.000036621095
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.3333335
+        value: 5.9211187
+        inSlope: -13.8015585
+        outSlope: -13.8015585
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.375
+        value: 4.8198605
+        inSlope: -39.236034
+        outSlope: -39.236034
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.416667
+        value: 2.7055929
+        inSlope: -46.250698
+        outSlope: -46.250698
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.4583335
+        value: 0.8245566
+        inSlope: -31.655182
+        outSlope: -31.655182
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: 0
+        inSlope: -9.863563
+        outSlope: -9.863563
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.541667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:Spine/Ice_Golem_Walk:Upper_Spine/Ice_Golem_Walk:Neck/Ice_Golem_Walk:Head
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.16666698
+        value: 80.86983
+        inSlope: -0.000022421074
+        outSlope: -0.000022421074
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.29166698
+        value: 80.865204
+        inSlope: -0.75439453
+        outSlope: -0.75439453
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.41666698
+        value: 80.287796
+        inSlope: -12.022339
+        outSlope: -12.022339
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.541667
+        value: 79.13159
+        inSlope: -2.7297363
+        outSlope: -2.7297363
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.666667
+        value: 79.13159
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.291667
+        value: 79.13159
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.3333335
+        value: 79.13159
+        inSlope: 7.369657
+        outSlope: 7.369657
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.375
+        value: 79.68524
+        inSlope: 17.35407
+        outSlope: 17.35407
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.416667
+        value: 80.480644
+        inSlope: 11.584445
+        outSlope: 11.584445
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.4583335
+        value: 80.83298
+        inSlope: 2.0720294
+        outSlope: 2.0720294
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: 80.86983
+        inSlope: -0.07360868
+        outSlope: -0.07360868
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.541667
+        value: 80.86983
+        inSlope: -0.0010986244
+        outSlope: -0.0010986244
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:Spine/Ice_Golem_Walk:Upper_Spine/Ice_Golem_Walk:Neck/Ice_Golem_Walk:Head
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.20833349
+        value: 10.931743
+        inSlope: 0.000015605583
+        outSlope: 0.000015605583
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3333335
+        value: 6.5856166
+        inSlope: -91.234116
+        outSlope: -91.234116
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5
+        value: -12.537262
+        inSlope: -91.167656
+        outSlope: -91.167656
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7083335
+        value: -16.883373
+        inSlope: -0.0000549316
+        outSlope: -0.0000549316
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.291667
+        value: -16.883373
+        inSlope: 0.000058855312
+        outSlope: 0.000058855312
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.375
+        value: -12.537262
+        inSlope: 166.80771
+        outSlope: 166.80771
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.416667
+        value: -2.9757447
+        inSlope: 229.15044
+        outSlope: 229.15044
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.4583335
+        value: 6.5856576
+        inSlope: 166.64603
+        outSlope: 166.64603
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.541667
+        value: 10.931743
+        inSlope: 0.00017166106
+        outSlope: 0.00017166106
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:Spine/Ice_Golem_Walk:Upper_Spine/Ice_Golem_Walk:RightShoulder/Ice_Golem_Walk:RightArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.20833349
+        value: -0.06231432
+        inSlope: -0.000008424576
+        outSlope: -0.000008424576
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3333335
+        value: -0.037247255
+        inSlope: 0.5174693
+        outSlope: 0.5174693
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5
+        value: 0.07174453
+        inSlope: 0.5510062
+        outSlope: 0.5510062
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7083335
+        value: 0.09791877
+        inSlope: -0.000044953787
+        outSlope: -0.000044953787
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.291667
+        value: 0.09791877
+        inSlope: -0.000016054932
+        outSlope: -0.000016054932
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.375
+        value: 0.0717454
+        inSlope: -0.9705946
+        outSlope: -0.9705946
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.416667
+        value: 0.016771303
+        inSlope: -1.2910202
+        outSlope: -1.2910202
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.4583335
+        value: -0.037247688
+        inSlope: -0.9557434
+        outSlope: -0.9557434
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.541667
+        value: -0.06231432
+        inSlope: -0.00009267015
+        outSlope: -0.00009267015
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:Spine/Ice_Golem_Walk:Upper_Spine/Ice_Golem_Walk:RightShoulder/Ice_Golem_Walk:RightArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.20833349
+        value: 89.6714
+        inSlope: -0.000049937862
+        outSlope: -0.000049937862
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3333335
+        value: 89.67523
+        inSlope: 0.04248047
+        outSlope: 0.04248047
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5
+        value: 89.669495
+        inSlope: -0.14337172
+        outSlope: -0.14337172
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7083335
+        value: 89.66284
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.291667
+        value: 89.66284
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.375
+        value: 89.669495
+        inSlope: 0.17138737
+        outSlope: 0.17138737
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.416667
+        value: 89.67693
+        inSlope: 0.031310797
+        outSlope: 0.031310797
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.4583335
+        value: 89.675224
+        inSlope: -0.12908985
+        outSlope: -0.12908985
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.541667
+        value: 89.6714
+        inSlope: -0.00054931536
+        outSlope: -0.00054931536
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:Spine/Ice_Golem_Walk:Upper_Spine/Ice_Golem_Walk:RightShoulder/Ice_Golem_Walk:RightArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 1.125
+        value: -0.0018051475
+        inSlope: 0.000006638971
+        outSlope: 0.000006638971
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:Spine/Ice_Golem_Walk:Upper_Spine/Ice_Golem_Walk:RightShoulder/Ice_Golem_Walk:RightArm/Ice_Golem_Walk:RightForeArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 1.125
+        value: -0.053680956
+        inSlope: 0.0000007724763
+        outSlope: 0.0000007724763
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:Spine/Ice_Golem_Walk:Upper_Spine/Ice_Golem_Walk:RightShoulder/Ice_Golem_Walk:RightArm/Ice_Golem_Walk:RightForeArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 1.125
+        value: -1.9259782
+        inSlope: -0.0000020599368
+        outSlope: -0.0000020599368
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Ice_Golem_Walk:Hips/Ice_Golem_Walk:Spine/Ice_Golem_Walk:Upper_Spine/Ice_Golem_Walk:RightShoulder/Ice_Golem_Walk:RightArm/Ice_Golem_Walk:RightForeArm
+    classID: 4
+    script: {fileID: 0}
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_GenerateMotionCurves: 0
+  m_Events:
+  - time: 0.033333335
+    functionName: StartWalking
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.033333335
+    functionName: Attacking
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 1
+    messageOptions: 0
+  - time: 0.9166667
+    functionName: EnablePunchCollider
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 1
+    messageOptions: 0
+  - time: 1.3666667
+    functionName: EnablePunchCollider
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.3666667
+    functionName: Attacking
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 1
+    messageOptions: 0
+  - time: 1.55
+    functionName: ResetAttackRateIce
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
